@@ -1,0 +1,11 @@
+<div class="tc">
+    <section>
+        <header>
+            <a href='{{ .Site.BaseURL }}about'>
+                <img class="br-100 db center w4" src="{{ .Site.BaseURL }}images/avatar.png"/>
+            </a>
+            <h2>{{ .Site.Params.name }}</h1>
+            <p class="fw2">{{ .Site.Params.bio | markdownify }}</h2>
+        </header>
+    </section>
+</div>

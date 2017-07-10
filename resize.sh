@@ -1,0 +1,1 @@
+for i in *.jpg; do go-convert -s 1024 "$i" "$i"; done

@@ -1,0 +1,36 @@
+ {{ partial "head.html" . }}
+
+<body>
+	{{ partial "nav.html" . }}
+
+	<section class="measure avenir center">
+		<article>
+			<header>
+				<h1>{{ .Title }}</h1>
+				<h2>{{ .Date.Format "January 2, 2006" }}</h2>
+			</header>
+			<section>
+				{{ .Content }}
+			</section>
+		</article>
+		<footer>
+			<hr/> {{ with .Site.Params.twitter }}<a href="https://twitter.com/{{ . }}">{{ end }}
+                        <div>
+                                <img class="br-100 w3 fl ma2" src="{{ .Site.BaseURL }}images/avatar.png">
+                            <p class="">{{ .Site.Params.name }}</p>
+                            <p class="">{{ .Site.Params.aboutAuthor }}</p>
+                        </div>
+                    {{ with .Site.Params.twitter }}</a>{{ end }}
+			<section>
+				{{ partial "share.html" . }}
+			</section>
+			<hr/>
+		</footer>
+
+		{{ if isset .Site.Params "disqusShortname" }} {{ partial "disqus.html" . }} {{ end }} {{ partial "latest-posts.html" . }} {{ partial "footer.html" . }}
+	</section>
+
+	{{ partial "js.html" . }}
+</body>
+
+</html>

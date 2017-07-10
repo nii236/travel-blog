@@ -1,0 +1,8 @@
+travel.niiteki.io:80/ {
+  log stdout
+  tls off 
+  basicauth /admin/ nii236 correcthorsebatterystaple
+  root public
+  hugo
+}
+

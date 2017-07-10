@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on Nii&#39;s Travel Blog</title>
+    <link>http://travel.niiteki.io/tags/tech/</link>
+    <description>Recent content in Tech on Nii&#39;s Travel Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Sep 2015 17:51:31 +0800</lastBuildDate>
+    
+	<atom:link href="http://travel.niiteki.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Migration to Hugo</title>
+      <link>http://travel.niiteki.io/posts/2015/migration-to-hugo/</link>
+      <pubDate>Thu, 17 Sep 2015 17:51:31 +0800</pubDate>
+      
+      <guid>http://travel.niiteki.io/posts/2015/migration-to-hugo/</guid>
+      <description>Again? I know, I know, I JUST migrated over to Ghost a few months ago. But no one really reads this anyway, so I don&amp;rsquo;t think I&amp;rsquo;m offending that many people.
+Hugo is a Go based static site generator. Its really damn quick, and looks pretty good too! At first I thought Ghost would&amp;rsquo;ve been a good platform to work from.
+But as it turns out, even though Ghost works really well, sorting out:</description>
+    </item>
+    
+    <item>
+      <title>Blockchain Analytics with Cayley DB</title>
+      <link>http://travel.niiteki.io/posts/2015/blockchain-analytics-with-cayley-db/</link>
+      <pubDate>Wed, 27 May 2015 13:21:05 +0800</pubDate>
+      
+      <guid>http://travel.niiteki.io/posts/2015/blockchain-analytics-with-cayley-db/</guid>
+      <description>Bitcoin (and consequently, the Blockchain) have been making waves in the media over the past few years.
+In this blog we will be covering the process of building relationships between blocks, transactions and addresses using Google&amp;rsquo;s Cayley DB. With this information we may be able to pinpoint important transfers of value and also build an ownership database on top of it to track high value individuals.
+I&amp;rsquo;m going to call this project Bayley, an amalgamation of &amp;ldquo;Bitcoin&amp;rdquo; and &amp;ldquo;Cayley&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Migration to Ghost</title>
+      <link>http://travel.niiteki.io/posts/2015/migration-to-ghost/</link>
+      <pubDate>Wed, 01 Apr 2015 15:24:24 +0800</pubDate>
+      
+      <guid>http://travel.niiteki.io/posts/2015/migration-to-ghost/</guid>
+      <description>Hello, this is kind of a big deal. What is the big deal? Well this blog!
+At first I thought it wasn&amp;rsquo;t that special. I mean all I was really doing was dumping photos with some captions so that my family can see what I&amp;rsquo;ve been up to on my vacations. The cool thing was that I have been semi consistent and now the blog is decently sized, with 130 posts and 1GB of (possible mostly superfluous) photos.</description>
+    </item>
+    
+  </channel>
+</rss>

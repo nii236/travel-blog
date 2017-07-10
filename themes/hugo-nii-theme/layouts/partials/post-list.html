@@ -1,0 +1,13 @@
+<ul>
+	{{ range .Paginator.Pages }} {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }} {{ if ne $url "about/" }}
+	<li class="bb b--light-silver list mv4">
+		<a class="link dim black fr light-silver" href='{{ .Permalink }}'>
+			<aside>{{ .Date.Format "Jan 2" }}</aside>
+		</a>
+		<a class="link dim black f3" href='{{ .Permalink }}'>
+                        {{ .Title }}
+                        <p class="light-silver f4">{{ .Description | markdownify }}</p>
+                </a>
+	</li>
+	{{ end }} {{ end }}
+</ul>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seminyak on Nii&#39;s Travel Blog</title>
+    <link>http://travel.niiteki.io/tags/seminyak/</link>
+    <description>Recent content in Seminyak on Nii&#39;s Travel Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jan 2017 19:25:11 +0800</lastBuildDate>
+    
+	<atom:link href="http://travel.niiteki.io/tags/seminyak/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Seminyak 2</title>
+      <link>http://travel.niiteki.io/posts/2017/seminyak2/</link>
+      <pubDate>Thu, 19 Jan 2017 19:25:11 +0800</pubDate>
+      
+      <guid>http://travel.niiteki.io/posts/2017/seminyak2/</guid>
+      <description> Migrate to Jimbaran This will be a short one! Our day:
+ Wake up Pack Take taxi to Pak Malen Eat tasty suckling pig Order a third mains to share tasty suckling pig Taxi back to the double six AirBnB Taxi to Jimbaran  </description>
+    </item>
+    
+    <item>
+      <title>Seminyak 1</title>
+      <link>http://travel.niiteki.io/posts/2017/seminyak1/</link>
+      <pubDate>Wed, 18 Jan 2017 19:25:11 +0800</pubDate>
+      
+      <guid>http://travel.niiteki.io/posts/2017/seminyak1/</guid>
+      <description>Seminyak Day 1 Today was migration day! We&amp;rsquo;re finally leaving Ubud and heading to Seminyak. Seminyak is allegedly the more upmarket area of Bali. Kind of like Kuta but more expensive.
+We had a driver that took us all the way there.
+Accomodation The AirBnB was located on DoubleSix street, one of the main streets heading into the Double Six Beach.
+It was actually pretty nice, except for the fact that the internet didn&amp;rsquo;t work.</description>
+    </item>
+    
+  </channel>
+</rss>

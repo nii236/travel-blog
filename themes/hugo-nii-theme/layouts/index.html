@@ -1,0 +1,17 @@
+ {{ partial "head.html" . }}
+
+<body class="measure-wide center avenir debug-black">
+	{{ partial "nav.html" . }} {{ partial "profile.html" . }}
+        <div>
+                {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+                        <a class="dim black link" href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>
+                {{ end }}
+        </div>
+	<section>
+		{{ partial "post-list.html" . }} {{ partial "pagination.html" . }} {{ partial "footer.html" . }}
+	</section>
+
+	{{ partial "js.html" . }}
+</body>
+
+</html>
