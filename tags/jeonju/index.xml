@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeonju on Nii&#39;s Travel Blog</title>
+    <link>http://travel.niiteki.io/tags/jeonju/</link>
+    <description>Recent content in Jeonju on Nii&#39;s Travel Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Apr 2014 09:22:39 +0800</lastBuildDate>
+    
+	<atom:link href="http://travel.niiteki.io/tags/jeonju/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jeonju</title>
+      <link>http://travel.niiteki.io/posts/2014/jeonju/</link>
+      <pubDate>Mon, 28 Apr 2014 09:22:39 +0800</pubDate>
+      
+      <guid>http://travel.niiteki.io/posts/2014/jeonju/</guid>
+      <description>Jeonju! The City of Gastronomy! I’m guessing that means they have tasty food there. Lets see shall we…
+This blog post covers two days in Jeonju, it was an overnight stay at a traditional style room, complete with rock hard thin mattresses, sleeping on the floor, and heatpiped flooring (amazing!)
+So old yet so new (the place just recently finished with renovations actually)
+This is an image of outside the room.</description>
+    </item>
+    
+  </channel>
+</rss>

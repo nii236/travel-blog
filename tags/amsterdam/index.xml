@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amsterdam on Nii&#39;s Travel Blog</title>
+    <link>http://travel.niiteki.io/tags/amsterdam/</link>
+    <description>Recent content in Amsterdam on Nii&#39;s Travel Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Jan 2016 19:25:11 +0800</lastBuildDate>
+    
+	<atom:link href="http://travel.niiteki.io/tags/amsterdam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Amsterdam</title>
+      <link>http://travel.niiteki.io/posts/2015/amsterdam/</link>
+      <pubDate>Mon, 04 Jan 2016 19:25:11 +0800</pubDate>
+      
+      <guid>http://travel.niiteki.io/posts/2015/amsterdam/</guid>
+      <description>Amsterdam! We&amp;rsquo;ve made it to Amsterdam! It&amp;rsquo;s the most tolerant of cities (or so I hear). Cycling friendly, and great views.
+Getting bikes So apparently the Dutch are really big on their cycling friendly environment. We decided to get bikes of our own for this stay. We went to the closest bike rental but the guy didn&amp;rsquo;t speak any English! So we had to get by with common words between the two languages.</description>
+    </item>
+    
+  </channel>
+</rss>
