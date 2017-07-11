@@ -8,10 +8,10 @@ aliases = [
 ]
 +++
 
-![image](/travel-blog/images/2012/08/wpid-img_20120810_140049.jpg "IMG_20120810_140049.jpg")
+![image](/images/2012/08/wpid-img_20120810_140049.jpg "IMG_20120810_140049.jpg")
 
  … Not really. The burgers were the highlight of the day actually. They had some pretty sweet chups too bru.
 
-![image](/travel-blog/images/2012/08/wpid-img_20120810_115209.jpg "IMG_20120810_115209.jpg")
+![image](/images/2012/08/wpid-img_20120810_115209.jpg "IMG_20120810_115209.jpg")
 
 

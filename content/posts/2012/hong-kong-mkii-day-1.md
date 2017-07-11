@@ -16,7 +16,7 @@ The flight to Kuala Lumpur was delayed due to “mechanical delays”. This was 
 
 Attempting to transfer to the airport was hard too. As always, questions were met with eye rolls, I was met with customer service representatives that were busy servicing their phones and SMSing. Sighs, bitchin, flustered responses about how my English was bad because I didn’t understand what they were saying. All in all, a normal day in Malaysia! It’s the absolute worst in service than any other country in the known multi verse I reckon.  
 
-![image](/travel-blog/images/2012/07/wpid-camerazoom-201207161606185901.jpg)
+![image](/images/2012/07/wpid-camerazoom-201207161606185901.jpg)
 
 A view into the mighty KL airport. My feet were killing me, I have absolutely no idea how people wear ultra high heels in an airport and come out of a 6 hour flight with freshly permed hair or whatever 
 
@@ -27,16 +27,16 @@ Luckily I loaded my 32gb flash drive with millions of hours of entertainment. An
 At the airport ate congee at exactly the same place that we did last time around. Tasty but I bought too much food by accident. Ended up being 6aud a head so it’s dirt cheap by Australian / Perth standards anyway.
 
 
-![image](/travel-blog/images/2012/07/wpid-camerazoom-20120716214455074.jpg)
+![image](/images/2012/07/wpid-camerazoom-20120716214455074.jpg)
 
 Aww yeah airport food. Overpriced and under flavoured. Still ends up tasting better and is cheaper than Perth food. Train to Central then transferred to TST. A little worried about finding the right place since Hong Kong was as crazy and chaotic as when I left it last time. We found it out if pure luck. As usual. It’s like the city is alive or something.
 
 
-![image](/travel-blog/images/2012/07/wpid-camerazoom-201207162229168802.jpg)
+![image](/images/2012/07/wpid-camerazoom-201207162229168802.jpg)
 Ah the octopus cards allowing a keen traveller to enter with the subways tentacles and tendrils into the orifices of the mega city 
 
-![image](/travel-blog/images/2012/07/wpid-camerazoom-201207162251420651.jpg)
+![image](/images/2012/07/wpid-camerazoom-201207162251420651.jpg)
 People in the train at the undecidedly unpeak hour of 1030pm. Do these people remember what sleep is? 
 
-![image](/travel-blog/images/2012/07/wpid-camerazoom-201207162330091702.jpg)
+![image](/images/2012/07/wpid-camerazoom-201207162330091702.jpg)
 Damn this place be smaller than my luggage

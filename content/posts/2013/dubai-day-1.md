@@ -16,18 +16,18 @@ So Dubai has the biggest everything. Biggest mall, biggest indoor ski resort, bi
 
 In the first day we went to the mall of the Emirates. Huge mall! Ate frozen yoghurt, walked around the hypermarket (supermarket but more hyper), had some KFC (had cravings for awhile now)  then ate some nice dinner at Al Halabi, a Lebanese restaurant.
 
-![image](/travel-blog/images/2013/04/wpid-img_20130421_143129.jpg "IMG_20130421_143129.jpg")
+![image](/images/2013/04/wpid-img_20130421_143129.jpg "IMG_20130421_143129.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img_20130421_145210.jpg "IMG_20130421_145210.jpg")
+![image](/images/2013/04/wpid-img_20130421_145210.jpg "IMG_20130421_145210.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img_20130421_145141.jpg "IMG_20130421_145141.jpg")
+![image](/images/2013/04/wpid-img_20130421_145141.jpg "IMG_20130421_145141.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img-20130424-wa0000.jpg "IMG-20130424-WA0000.jpg")
+![image](/images/2013/04/wpid-img-20130424-wa0000.jpg "IMG-20130424-WA0000.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img_20130421_180613.jpg "IMG_20130421_180613.jpg")
+![image](/images/2013/04/wpid-img_20130421_180613.jpg "IMG_20130421_180613.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img_20130421_181359.jpg "IMG_20130421_181359.jpg")
+![image](/images/2013/04/wpid-img_20130421_181359.jpg "IMG_20130421_181359.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img_20130421_182554.jpg "IMG_20130421_182554.jpg")
+![image](/images/2013/04/wpid-img_20130421_182554.jpg "IMG_20130421_182554.jpg")
 
 

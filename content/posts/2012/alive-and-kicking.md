@@ -13,7 +13,7 @@ Yo I’m still alive just trying to get my hands on a keyboard so I can transcri
 Here’s some pics to tide you over.
 
 
-![image](/travel-blog/images/2012/07/wpid-camerazoom-20120719155930440.jpg "CameraZOOM-20120719155930440.jpg")Rice burger, got from mos burger 
-![image](/travel-blog/images/2012/07/wpid-camerazoom-20120719164213405.jpg "CameraZOOM-20120719164213405.jpg")Dessert from Honeymoon Dessert shop. Smelly durian. 
-![image](/travel-blog/images/2012/07/wpid-camerazoom-20120719153955509.jpg "CameraZOOM-20120719153955509.jpg")Way too many doctors. 
-![image](/travel-blog/images/2012/07/wpid-camerazoom-20120719132456590.jpg "CameraZOOM-20120719132456590.jpg")Waaay too many. 
+![image](/images/2012/07/wpid-camerazoom-20120719155930440.jpg "CameraZOOM-20120719155930440.jpg")Rice burger, got from mos burger 
+![image](/images/2012/07/wpid-camerazoom-20120719164213405.jpg "CameraZOOM-20120719164213405.jpg")Dessert from Honeymoon Dessert shop. Smelly durian. 
+![image](/images/2012/07/wpid-camerazoom-20120719153955509.jpg "CameraZOOM-20120719153955509.jpg")Way too many doctors. 
+![image](/images/2012/07/wpid-camerazoom-20120719132456590.jpg "CameraZOOM-20120719132456590.jpg")Waaay too many. 

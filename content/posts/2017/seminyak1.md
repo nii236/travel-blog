@@ -27,11 +27,11 @@ We had some nut croissants that we brought over from Ubud (Cafe Wayan and Bakery
 
 Just had coffee and cake here.
 
-![coffee and cake](/travel-blog/images/2017/01/seminyak1/seminyak1_01.jpg)
+![coffee and cake](/images/2017/01/seminyak1/seminyak1_01.jpg)
 
 ### Babi Guling Pak Malen
 
-![suckling pig](/travel-blog/images/2017/01/seminyak1/seminyak1_02.jpg)
+![suckling pig](/images/2017/01/seminyak1/seminyak1_02.jpg)
 
 This is a family style restaurant that sells suckling pig. Great stuff. We ate there twice! Their menu is quite simple, you have one main dish ($4), two juices (Lemon and Orange), tea, and that's it. The order is written on a post it note.
 
@@ -41,7 +41,7 @@ The food was very hot. Tasty too!
 
 ### Ikan Bakar Cianjur
 
-![IBC](/travel-blog/images/2017/01/seminyak1/seminyak1_05.jpg)
+![IBC](/images/2017/01/seminyak1/seminyak1_05.jpg)
 
 This restaurant is owned by Steph's Uncle and Aunty and was pretty amazing. We ate way too much as usual.
 
@@ -51,11 +51,11 @@ Steph's parents' Pie World had a branch here. We were offered some free pies but
 
 ### Spicery Deli
 
-![spicery deli](/travel-blog/images/2017/01/seminyak1/seminyak1_02.jpg)
+![spicery deli](/images/2017/01/seminyak1/seminyak1_02.jpg)
 
-![spicery deli](/travel-blog/images/2017/01/seminyak1/seminyak1_06.jpg)
+![spicery deli](/images/2017/01/seminyak1/seminyak1_06.jpg)
 
-![spicery deli](/travel-blog/images/2017/01/seminyak1/seminyak1_07.jpg)
+![spicery deli](/images/2017/01/seminyak1/seminyak1_07.jpg)
 
 The food here was highly rated, and I can happily confirm it was indeed amazing. Unfortunately the servings were too large! We over ordered and couldn't barely start eating our mains dish.
 
@@ -69,7 +69,7 @@ Unfortunately I was kinda disappointed by the place. The ribs didn't taste like 
 
 ## Shopping
 
-![stupidly fashionable sunglasses](/travel-blog/images/2017/01/seminyak1/seminyak1_07.jpg)
+![stupidly fashionable sunglasses](/images/2017/01/seminyak1/seminyak1_07.jpg)
 
 Clothes are so expensive in Seminyak. We're talking at *least* Perth prices. Not to mention the styles themselves are uninspired and uncreative. Basically your typical global brands and stores.
 

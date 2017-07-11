@@ -332,15 +332,15 @@ Here is the result of the first block:
 
 The query shape looks like this:
 
-![](/travel-blog/images/2015/05/queryshape.png)
+![](/images/2015/05/queryshape.png)
 
 The visualisation itself looks like these following images.
 
 Single block:
-![](/travel-blog/images/2015/05/oneblock.png)
+![](/images/2015/05/oneblock.png)
 
 Five blocks:
-![](/travel-blog/images/2015/05/fiveblocks.png)
+![](/images/2015/05/fiveblocks.png)
 
 As you can see there are shared nodes, this is because the nodes have the same predicate and objects, but different subject (blockhash). This is a good example of how cayley helps in visualising relationships.
 

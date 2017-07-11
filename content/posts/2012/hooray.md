@@ -14,7 +14,7 @@ Damn I FINALLY got that damn keyboard! I bought it over at the MongKok Computer 
 
 Check it out!
 
-![image](/travel-blog/images/2012/07/wpid-img_20120720_234952.jpg "IMG_20120720_234952.jpg")
+![image](/images/2012/07/wpid-img_20120720_234952.jpg "IMG_20120720_234952.jpg")
 
 ALERT: Please go back a few posts to read my overdue Macau post. Its out of order! But chronologically sound, for archival purposes.
 

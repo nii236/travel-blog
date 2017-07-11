@@ -8,7 +8,7 @@ aliases = [
 ]
 +++
 
-![](/travel-blog/images/2010/10/kmp-wdm5b280001442900-50-045d.jpg)
+![](/images/2010/10/kmp-wdm5b280001442900-50-045d.jpg)
 
 On a plane with Victor, in the EXIT ROW!!! Quite spacy, with lots of leg room too. Hopefully for the next flight we’ll be on exit row as well, but I chose the squishy window seat instead, so I doubt I’ll get it.
 

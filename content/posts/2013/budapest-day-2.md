@@ -16,20 +16,20 @@ We asked the hostel owners if there is room service here. The guy was kind of sh
 # DAY 2 BUDAPEST
 
 
-![This was our breakfast! Steph made this lovely... uhh.. aglio oglio salmon caviar olive oil spaghetti pasta thingomabobu.](/travel-blog/images/2013/05/img_20130429_084036.jpg)This was our breakfast! My personal chef Steph made this lovely… uhh.. aglio oglio salmon caviar olive oil spaghetti pasta thingomabobu.Time to explore the city! Time was pretty tight as you will find out in the coming days as I finish writing these overdue blog posts.
+![This was our breakfast! Steph made this lovely... uhh.. aglio oglio salmon caviar olive oil spaghetti pasta thingomabobu.](/images/2013/05/img_20130429_084036.jpg)This was our breakfast! My personal chef Steph made this lovely… uhh.. aglio oglio salmon caviar olive oil spaghetti pasta thingomabobu.Time to explore the city! Time was pretty tight as you will find out in the coming days as I finish writing these overdue blog posts.
 
 
-![This car was pretty sweet. I'm not actually sure what we're looking at here, the car body was entirely replaced with some weird... plastic... material.](/travel-blog/images/2013/05/img_20130429_193717.jpg)This car was pretty sweet. I’m not actually sure what we’re looking at here, the car body was entirely replaced with some weird… plastic… material.
-![CARVE THOSE BICEPS](/travel-blog/images/2013/05/img_20130429_193339.jpg)CARVE THOSE BICEPS
-![Not enough poles in the city to which to tie ones bike it seems.](/travel-blog/images/2013/05/img_20130429_141350.jpg)Not enough poles in the city to which to tie ones bike it seems.
-![Lovely train still chugging along from the 70s. As much as I make fun of the crappy trains here, Perth doesn't even HAVE a subway, so I guess these Hungarians get the last laugh.](/travel-blog/images/2013/05/img_20130429_123711.jpg)Lovely train still chugging along from the 70s. As much as I make fun of the crappy trains here, Perth doesn’t even HAVE a subway, so I guess these Hungarians get the last laugh.
-![The escalators here move at a BLINDING speed. Maybe 3x faster than Perth ones? Anyway you need a running start to get on and off the damn things. Plus no one bothers walking up and down the escalators because you'll be zooming around anyway.](/travel-blog/images/2013/05/img_20130429_211447.jpg)The escalators here move at a BLINDING speed. Maybe 3x faster than Perth ones? Anyway you need a running start to get on and off the damn things. Plus no one bothers walking up and down the escalators because you’ll be zooming around anyway.So for some reason there is a place called TRAP which is the 2nd highest tourist attraction in Budapest. Its one of the many escape rooms that are popular in this city. These are locked room puzzles where you have to solve multiple puzzles and find objects inside a room in order to get to a bomb to defuse it. The owner of the place watches you through CCTV and assists when you yell for help.
+![This car was pretty sweet. I'm not actually sure what we're looking at here, the car body was entirely replaced with some weird... plastic... material.](/images/2013/05/img_20130429_193717.jpg)This car was pretty sweet. I’m not actually sure what we’re looking at here, the car body was entirely replaced with some weird… plastic… material.
+![CARVE THOSE BICEPS](/images/2013/05/img_20130429_193339.jpg)CARVE THOSE BICEPS
+![Not enough poles in the city to which to tie ones bike it seems.](/images/2013/05/img_20130429_141350.jpg)Not enough poles in the city to which to tie ones bike it seems.
+![Lovely train still chugging along from the 70s. As much as I make fun of the crappy trains here, Perth doesn't even HAVE a subway, so I guess these Hungarians get the last laugh.](/images/2013/05/img_20130429_123711.jpg)Lovely train still chugging along from the 70s. As much as I make fun of the crappy trains here, Perth doesn’t even HAVE a subway, so I guess these Hungarians get the last laugh.
+![The escalators here move at a BLINDING speed. Maybe 3x faster than Perth ones? Anyway you need a running start to get on and off the damn things. Plus no one bothers walking up and down the escalators because you'll be zooming around anyway.](/images/2013/05/img_20130429_211447.jpg)The escalators here move at a BLINDING speed. Maybe 3x faster than Perth ones? Anyway you need a running start to get on and off the damn things. Plus no one bothers walking up and down the escalators because you’ll be zooming around anyway.So for some reason there is a place called TRAP which is the 2nd highest tourist attraction in Budapest. Its one of the many escape rooms that are popular in this city. These are locked room puzzles where you have to solve multiple puzzles and find objects inside a room in order to get to a bomb to defuse it. The owner of the place watches you through CCTV and assists when you yell for help.
 
 
-![Oh god we're gonna die!](/travel-blog/images/2013/05/img-20130501-wa0007.jpg)Oh god we’re gonna die!
-![Like Saw but without the fear of death or auto-amputation.](/travel-blog/images/2013/05/img-20130501-wa0006.jpg)Like Saw but without the fear of death or auto-amputation.
-![Looks pretty cool eh?](/travel-blog/images/2013/05/img-20130501-wa0005.jpg)Looks pretty cool eh?
-![Some promo pics of TRAP.](/travel-blog/images/2013/05/img-20130501-wa0004.jpg)Some promo pics of TRAP.I see this concept is quite confusing (unless you are a huge Nintendo DS gaming geek) and my lovely assistant Steph has summarised the steps required to pass the FIRST room. There are two rooms.
+![Oh god we're gonna die!](/images/2013/05/img-20130501-wa0007.jpg)Oh god we’re gonna die!
+![Like Saw but without the fear of death or auto-amputation.](/images/2013/05/img-20130501-wa0006.jpg)Like Saw but without the fear of death or auto-amputation.
+![Looks pretty cool eh?](/images/2013/05/img-20130501-wa0005.jpg)Looks pretty cool eh?
+![Some promo pics of TRAP.](/images/2013/05/img-20130501-wa0004.jpg)Some promo pics of TRAP.I see this concept is quite confusing (unless you are a huge Nintendo DS gaming geek) and my lovely assistant Steph has summarised the steps required to pass the FIRST room. There are two rooms.
 
 1. Pull out floppy disc from computer
 2. Read writing on the floppy disc
@@ -61,21 +61,21 @@ We also made a mess. Pull out all the paint cans in the cupboard. Starting to re
 We managed to defuse the bomb with 3 minutes remaining. Had to ask for a lot of help though, apparently its much easier when we have more people in the team. We were pretty bad at the game though. Missing obvious clues or looking in the wrong place or doing stupid things with objects. Surprised we managed to get through at all. Wish we did more of those though.
 
 
-![TRAP! Also stands for Team Race Against Puzzles. That's a forced acronym if I've ever seen one. ](/travel-blog/images/2013/05/img_20130429_125153.jpg)TRAP! Also stands for Team Race Against Puzzles. That’s a forced acronym if I’ve ever seen one.
-![Steph just chilling out with the marble maze (psst I had to finish it for her).](/travel-blog/images/2013/05/img_20130429_132631.jpg)Steph just chilling out with the marble maze (psst I had to finish it for her).
-![The bomb room! Oooh scary.](/travel-blog/images/2013/05/img_20130429_133027.jpg)The bomb room! Oooh scary.
-![WE'RE ALIVE!](/travel-blog/images/2013/04/img-20130507-wa0003.jpg)WE’RE ALIVE!For some reason we decided to grab some takeaway Hummus for breakfast. Probably from the excellent stuff we got from Dubai.
+![TRAP! Also stands for Team Race Against Puzzles. That's a forced acronym if I've ever seen one. ](/images/2013/05/img_20130429_125153.jpg)TRAP! Also stands for Team Race Against Puzzles. That’s a forced acronym if I’ve ever seen one.
+![Steph just chilling out with the marble maze (psst I had to finish it for her).](/images/2013/05/img_20130429_132631.jpg)Steph just chilling out with the marble maze (psst I had to finish it for her).
+![The bomb room! Oooh scary.](/images/2013/05/img_20130429_133027.jpg)The bomb room! Oooh scary.
+![WE'RE ALIVE!](/images/2013/04/img-20130507-wa0003.jpg)WE’RE ALIVE!For some reason we decided to grab some takeaway Hummus for breakfast. Probably from the excellent stuff we got from Dubai.
 
 Grocery shopping was SO cheap in Budapest. I think about 5 times cheaper than Perth prices? That’s not saying much I guess but still. That’s for the drinks and stuff anyway, but meat and spices were also ridiculously cheap. I bought some cool local sparkling water (pear and cactus flavour wtf) for a cool 0.30AUD. Caviar was 2AUD, some of the meats cost about 3AUD. That and the fact hiring a hostel was cheaper than staying in the apartment back in East Perth makes a compelling argument for moving here.
 
 
-![Mmm 2AUD caviar. Tasted like actual food too which is a bonus.](/travel-blog/images/2013/05/img_20130429_083020.jpg)Mmm 2AUD caviar. Tasted like actual food too which is a bonus.Rosenstein is one of the best rated restaurants in Budapest. It was… not very good. Really scary waitress lady. Gruff, rude, whacking down plates and far too curt. Its like she was really pissed off at us for existing. Steph might say something along the lines of me breaking every social convention there was when it comes to fine dining but I reckon there’s NO excuse for bad service. Well unless I was REALLY out of line, but I certainly don’t fit the bill for terrible customer. Weird, yes, but not terrible.
+![Mmm 2AUD caviar. Tasted like actual food too which is a bonus.](/images/2013/05/img_20130429_083020.jpg)Mmm 2AUD caviar. Tasted like actual food too which is a bonus.Rosenstein is one of the best rated restaurants in Budapest. It was… not very good. Really scary waitress lady. Gruff, rude, whacking down plates and far too curt. Its like she was really pissed off at us for existing. Steph might say something along the lines of me breaking every social convention there was when it comes to fine dining but I reckon there’s NO excuse for bad service. Well unless I was REALLY out of line, but I certainly don’t fit the bill for terrible customer. Weird, yes, but not terrible.
 
-![IMG-20130501-WA0012](/travel-blog/images/2013/05/img-20130501-wa0012.jpg)
+![IMG-20130501-WA0012](/images/2013/05/img-20130501-wa0012.jpg)
 
 
-![The bone marrow soup was AMAZING. This was definitely worth eating. The rest not so much.](/travel-blog/images/2013/05/img-20130501-wa0013.jpg)The bone marrow soup was AMAZING. This was definitely worth eating. The rest not so much.
-![Bread dumpling thing with venison. We tried our best to finish it but the crazy waitress didn't help things much.](/travel-blog/images/2013/05/img-20130501-wa0014.jpg)Bread dumpling thing with venison. We tried our best to finish it but the crazy waitress didn’t help things much.
-![Umm, food.](/travel-blog/images/2013/05/img-20130501-wa0015.jpg)Umm, food.Steph had a read through my blog and apparently its basically a food blog rather than a travel blog. Not sure what to say to that. Food yummy for my tummy? Sightseeing is a drain on my brain?
+![The bone marrow soup was AMAZING. This was definitely worth eating. The rest not so much.](/images/2013/05/img-20130501-wa0013.jpg)The bone marrow soup was AMAZING. This was definitely worth eating. The rest not so much.
+![Bread dumpling thing with venison. We tried our best to finish it but the crazy waitress didn't help things much.](/images/2013/05/img-20130501-wa0014.jpg)Bread dumpling thing with venison. We tried our best to finish it but the crazy waitress didn’t help things much.
+![Umm, food.](/images/2013/05/img-20130501-wa0015.jpg)Umm, food.Steph had a read through my blog and apparently its basically a food blog rather than a travel blog. Not sure what to say to that. Food yummy for my tummy? Sightseeing is a drain on my brain?
 
 

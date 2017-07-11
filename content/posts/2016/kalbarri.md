@@ -10,54 +10,54 @@ We got up super early today, at 730am. This was so we actually see the dolphins 
 
 Steph thinks it was lame, because it was really windy and cold, it was raining, and the dolphins their sweet time to say hello.
 
-![dolphin1](/travel-blog/images/2016/kalbarri/dolphin1.jpg)
+![dolphin1](/images/2016/kalbarri/dolphin1.jpg)
 
 We also didn't get a chance to feed them! The volunteer yesterday gave us a tip to wear "outlandish clothing" so that we are distinct enough so that we get chosen during the feeding. Unfortunately I guess our clothing wasn't crazy enough this time around! They ended up choosing the guy next to us wearing navy top and brown shorts.
 
-![dolphin2](/travel-blog/images/2016/kalbarri/dolphin2.jpg)
+![dolphin2](/images/2016/kalbarri/dolphin2.jpg)
 
 Steph was really upset that she didn't get chosen as she was really looking forward to feeding the dolphins.
 
-![dolphin3](/travel-blog/images/2016/kalbarri/dolphin3.jpg)
+![dolphin3](/images/2016/kalbarri/dolphin3.jpg)
 
 Lots of pelicans come out when the dolphins are there because they want to steal their fish.
 
-![pelican1](/travel-blog/images/2016/kalbarri/pelican1.jpg)
+![pelican1](/images/2016/kalbarri/pelican1.jpg)
 
 I was in camo that day so the pelicans could not spot me.
 
-![pelican2](/travel-blog/images/2016/kalbarri/pelican2.jpg)
+![pelican2](/images/2016/kalbarri/pelican2.jpg)
 
 We then had breakfast at the Boughshed Restaurant.
 
-![boughshed](/travel-blog/images/2016/kalbarri/boughshed.jpg)
+![boughshed](/images/2016/kalbarri/boughshed.jpg)
 
 As I'm typing this we are on the way out of Shark Bay and will be visiting Hamelin Pool on the way to Kalbarri, our next stop.
 
 UPDATE: Well we finally made it to our awesome accomodation. We're basically living on one side of someone's house.
-![kalbarri](/travel-blog/images/2016/kalbarri/kalbarri.jpg)
+![kalbarri](/images/2016/kalbarri/kalbarri.jpg)
 
 Along the way we visit Nature's Window. Its a walking trail that is to our level. As in, 10 minute walk only.
 
-![pano](/travel-blog/images/2016/kalbarri/pano.jpg)
+![pano](/images/2016/kalbarri/pano.jpg)
 
 The drive to the trail was really long and bumpy.
-![view](/travel-blog/images/2016/kalbarri/view.jpg)
+![view](/images/2016/kalbarri/view.jpg)
 
-![naturewindow1](/travel-blog/images/2016/kalbarri/naturewindow1.jpg)
-![naturewindow2](/travel-blog/images/2016/kalbarri/naturewindow2.jpg)
-![naturewindow3](/travel-blog/images/2016/kalbarri/naturewindow3.jpg)
-![naturewindow4](/travel-blog/images/2016/kalbarri/naturewindow4.jpg)
-![naturewindow5](/travel-blog/images/2016/kalbarri/naturewindow5.jpg)
-![naturewindow6](/travel-blog/images/2016/kalbarri/naturewindow6.jpg)
-![naturewindow7](/travel-blog/images/2016/kalbarri/naturewindow7.jpg)
+![naturewindow1](/images/2016/kalbarri/naturewindow1.jpg)
+![naturewindow2](/images/2016/kalbarri/naturewindow2.jpg)
+![naturewindow3](/images/2016/kalbarri/naturewindow3.jpg)
+![naturewindow4](/images/2016/kalbarri/naturewindow4.jpg)
+![naturewindow5](/images/2016/kalbarri/naturewindow5.jpg)
+![naturewindow6](/images/2016/kalbarri/naturewindow6.jpg)
+![naturewindow7](/images/2016/kalbarri/naturewindow7.jpg)
 
 
 I brought my selfie stick because I am a tourist.
-![selfie1](/travel-blog/images/2016/kalbarri/selfie1.jpg)
+![selfie1](/images/2016/kalbarri/selfie1.jpg)
 
 Flies were eating us alive, as well as my backpack.
-![flytastic](/travel-blog/images/2016/kalbarri/flytastic.jpg)
+![flytastic](/images/2016/kalbarri/flytastic.jpg)
 
 We're driving home tomorrow! Its gonna be even longer than today.
 

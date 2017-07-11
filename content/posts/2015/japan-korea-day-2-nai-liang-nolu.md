@@ -17,11 +17,11 @@ Today we went to Nara Park! Oh deer-ie me. I think I should stop with these lame
 
 And we all know this blog needs more hits. I get like, one hit per year (hi Mum!).
 
-![EV charge station](/travel-blog/images/2015/07/IMG_0722.jpg)
+![EV charge station](/images/2015/07/IMG_0722.jpg)
 
 I discovered an electric vehicle quick charging station!
 
-![Tap with lots of dials](/travel-blog/images/2015/07/IMG_0719.jpg)
+![Tap with lots of dials](/images/2015/07/IMG_0719.jpg)
 
 I was scared to use this tap at the guesthouse. Who knows what each of those million dials could do. Luckily I didn't burn myself or blow myself up or anything.
 
@@ -38,85 +38,85 @@ Anyway this was the highlight of our (my?) day. Killer deer! No, I'm serious. Th
 
 DEERTIME!
 
-![deer1](/travel-blog/images/2015/07/2015---4.jpg)
-![deer2](/travel-blog/images/2015/07/2015---5.jpg)
-![deer3](/travel-blog/images/2015/07/2015---10.jpg)
-![deer4](/travel-blog/images/2015/07/2015---11.jpg)
+![deer1](/images/2015/07/2015---4.jpg)
+![deer2](/images/2015/07/2015---5.jpg)
+![deer3](/images/2015/07/2015---10.jpg)
+![deer4](/images/2015/07/2015---11.jpg)
 
 They were going nuts. Basically as soon as you buy the crackers to feed them, the deer will swarm and attack you, chomping away at you trying to desperately get some of that sweet, sweet crackers.
 
-![Special moves](/travel-blog/images/2015/07/2015---14.jpg)
+![Special moves](/images/2015/07/2015---14.jpg)
 
 The deers basically have Street Fighter style special moves. I wish I were kidding.
 
-![stephs arm with deer bite](/travel-blog/images/2015/07/IMG_0783.jpg)
+![stephs arm with deer bite](/images/2015/07/IMG_0783.jpg)
 
 Here's a photo of Steph's arm, post bite.
 
 But its okay because Steph dished out her own damage:
 
-![Muay thai](/travel-blog/images/2015/07/2015---3.jpg)
+![Muay thai](/images/2015/07/2015---3.jpg)
 
 I myself got my butt snapped at many times by the hungry herbivores. By the way they were eating me you'd think they were actually carnivores! They're peaceful if you DON'T have food though, which is pretty funny if you think about it.
 
-![derp deer](/travel-blog/images/2015/07/2015---2.jpg)
+![derp deer](/images/2015/07/2015---2.jpg)
 
-![derp deer 2](/travel-blog/images/2015/07/derpdeer2-1.jpg)
+![derp deer 2](/images/2015/07/derpdeer2-1.jpg)
 
 This deer was derping hard.
 
-![chillaxing deer](/travel-blog/images/2015/07/2015---12.jpg)
+![chillaxing deer](/images/2015/07/2015---12.jpg)
 
 But most of them were just chilling (alpaca style), like the above.
 
-![deer eating me](/travel-blog/images/2015/07/IMG_0806.jpg)
+![deer eating me](/images/2015/07/IMG_0806.jpg)
 
 Alright, here was my attempt at feeding the deer (or perhaps the deers attempts at feeding on me). There are more photos but they mostly revolve around me running backwards in circles in fear for my life.
 
-![More Johnny deer pic](/travel-blog/images/2015/07/2015---13.jpg)
+![More Johnny deer pic](/images/2015/07/2015---13.jpg)
 
 
 ## Daibutsu Den & Todaiji Temple
 We visited the big temple with a big buddha. Some pics below.
 
-![front of temple](/travel-blog/images/2015/07/IMG_0929.jpg)
+![front of temple](/images/2015/07/IMG_0929.jpg)
 The weather was ominous...
 
 We're not that big on museums or temples, but we figured since we were in one of the most important historical city of Japan, we would. It wasn't as bad as Kyoto.
 
 
-![Todaiji entrance](/travel-blog/images/2015/07/todaijientrance-1.jpg)
+![Todaiji entrance](/images/2015/07/todaijientrance-1.jpg)
 
-![Temple Door](/travel-blog/images/2015/07/2015---1.jpg)
+![Temple Door](/images/2015/07/2015---1.jpg)
 
-![Buddha Hand](/travel-blog/images/2015/07/IMG_0987.jpg)
+![Buddha Hand](/images/2015/07/IMG_0987.jpg)
 
 This may be deceiving at first, but Steph actually has much smaller hands believe it or not.
 
-![model of temples](/travel-blog/images/2015/07/IMG_0984.jpg)
+![model of temples](/images/2015/07/IMG_0984.jpg)
 
 Luckily we were also the first ones there since we were there super early (1pm...?). By the time we left it was chockers full of schools on day trips from other cities and stuff.
 
-![tree](/travel-blog/images/2015/07/2015---6.jpg)
+![tree](/images/2015/07/2015---6.jpg)
 
 This scene would be much creepier at night
 
 
 ## Nigatsu-do Temple
 
-![Stand things](/travel-blog/images/2015/07/2015---7.jpg)
+![Stand things](/images/2015/07/2015---7.jpg)
 I'm not sure what the stone pillars symbolises, but Steph thought they were gravestones.
 
-![random spinny thing](/travel-blog/images/2015/07/IMG_1023.jpg)
+![random spinny thing](/images/2015/07/IMG_1023.jpg)
 Again, I'm not sure what is the purpose of this is.
 
-![dragon water fountain](/travel-blog/images/2015/07/dragon-water-1.jpg)
+![dragon water fountain](/images/2015/07/dragon-water-1.jpg)
 Ooh! I know what you do with this. You drink it...right? Or is this feet-washing water? We'll find out if I'm poisoned in a few days.
 
-![high view](/travel-blog/images/2015/07/2015---8.jpg)
+![high view](/images/2015/07/2015---8.jpg)
 The view's not bad from here.
 
-![Stairs](/travel-blog/images/2015/07/IMG_1034.jpg)
+![Stairs](/images/2015/07/IMG_1034.jpg)
 
 There was also a resting room for weary travellers near the Temple, which was really neat! We were the first one to arrive, so we had a whole table to ourselves on the tatami mat; where we sat, drank tea for free and napped for a bit. We were rudely awakened by a group of Chinese tourists whose kids ran around screaming and poking sleeping travelers.
 
@@ -146,7 +146,7 @@ The first thing I do if I become the Prime Minister of Japan, is to create some 
 
 So we eventually made it there. The host mother made us dinner, we had dinner with the family and all was well. We were really late for dinner since we got lost though AND they were all waiting for us! Very bad.
 
-![Yashiro family poster](/travel-blog/images/2015/07/family-poster.jpg)
+![Yashiro family poster](/images/2015/07/family-poster.jpg)
 We were the 12th and 13th member of the family in that house.
 
 The hostmother (who we called okaa-san, or Mum) was impressed by our Japanese skills. She speaks almost zero english, so any level of Japanese was helpful in this situation. She was very friendly and helpful and was the grandmother of the household.
@@ -159,7 +159,7 @@ My conversation skills were pretty bad actually, luckily Steph was there since s
 
 The immediate family tree itself was enormous enough. There was also mother Nahoko, the father Takayuki, two other kids who we met at some point (Mayu and Ryo(?)), and the main contact from AirBnB which you can see on the bottom right. That family is living in Indonesia at the moment.
 
-![bath system](/travel-blog/images/2015/07/bath-system.jpg)
+![bath system](/images/2015/07/bath-system.jpg)
 
 The house had a bath (apparently the Japanese bath system also operates in personal homes as well) aka one shared bath, shared water etc. Shower, rinse thoroughly, then just sit and chill out in the (temperature controlled!) bath for awhile then get out.
 

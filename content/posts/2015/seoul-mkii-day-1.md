@@ -14,20 +14,20 @@ These last few days weren’t that particularly exciting. They mostly involved s
 Our new hostel is in the Honggik university area which was fantastic. Young culture and stuff. Did some shopping in the neighbouring Ehwa Women’s University area. Strangely enough there were mostly women’s clothing there, of a more preppy variety.
 
 
-![IMG_20140425_213639](/travel-blog/images/2014/05/img_20140425_213639.jpg)
+![IMG_20140425_213639](/images/2014/05/img_20140425_213639.jpg)
 
 This was our lunch. The food was tasty at first, but the pork belly quickly got sickening. But its fine, as a result of my traditional upbringing… ALWAYS FINISH THE MEAT!
 
-![IMG_20140425_213503](/travel-blog/images/2014/05/img_20140425_213503.jpg)
+![IMG_20140425_213503](/images/2014/05/img_20140425_213503.jpg)
 
 
-![IMG_20140425_213733](/travel-blog/images/2014/05/img_20140425_213733.jpg)
+![IMG_20140425_213733](/images/2014/05/img_20140425_213733.jpg)
 
 Sat down at a cafe to get my coffee fix before I collapse on the ground with withdrawal symptoms (its never been that bad… yet). Turns out they sneakily substituted my coffee for what appears to be sugar with a side of liquid. Never again! That’s not a real macchiato! Though it was called a ‘caramel’ macchiato, which automatically means it becomes a disgustingly sweet sugar drink somehow.
 
-![PhotoGrid_1398402963034](/travel-blog/images/2014/05/photogrid_1398402963034.jpg)
+![PhotoGrid_1398402963034](/images/2014/05/photogrid_1398402963034.jpg)
 
-![PhotoGrid_1398429831404](/travel-blog/images/2014/05/photogrid_1398429831404.jpg)
+![PhotoGrid_1398429831404](/images/2014/05/photogrid_1398429831404.jpg)
 
 Anyway its sweets and desserts class today! This was the most interesting class and I learnt about the fundamental stuff that comes with baking. Much more interesting than cooking normal food. 1 dish was demonstrated to us, and 3 were made by us!
 
@@ -45,6 +45,6 @@ We were kind of worried for a bit because the chef teacher lady had trouble maki
 
 …Turns out she forgot a critical ingredient (glutinous rice flour?). Baking remains a black art to me.
 
-![DSC_0221](/travel-blog/images/2014/05/dsc_0221.jpg)
+![DSC_0221](/images/2014/05/dsc_0221.jpg)
 
 We stayed at another… design… motel again tonight. This was in Sinchong. Not much to say about it, except nearby we had the BEST DAMN beef rib stew ever! Its hard to explain with words, so here’s a picture.

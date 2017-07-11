@@ -30,22 +30,22 @@ The worst part of this were obnoxious Indian kids everywhere. Normally this isn�
 
 Long day. Managed to find some local food for dinner. It was a place called Foul W Hummus. Bought hummus with meat and some other stuff. Really cheap too! It worked out to about 10 bucks for both of us. Interestingly the people here like to give truckloads of complementary bread with everything. Steph says the food from this place  was the highlight of the Dubai part of the trip…
 
-![image](/travel-blog/images/2013/04/wpid-img-20130425-wa0016.jpg "IMG-20130425-WA0016.jpg")
+![image](/images/2013/04/wpid-img-20130425-wa0016.jpg "IMG-20130425-WA0016.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img-20130425-wa0017.jpg "IMG-20130425-WA0017.jpg")
+![image](/images/2013/04/wpid-img-20130425-wa0017.jpg "IMG-20130425-WA0017.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img-20130425-wa0020.jpg "IMG-20130425-WA0020.jpg")
+![image](/images/2013/04/wpid-img-20130425-wa0020.jpg "IMG-20130425-WA0020.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img-20130425-wa0022.jpg "IMG-20130425-WA0022.jpg")
+![image](/images/2013/04/wpid-img-20130425-wa0022.jpg "IMG-20130425-WA0022.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img_20130423_125302.jpg "IMG_20130423_125302.jpg")
+![image](/images/2013/04/wpid-img_20130423_125302.jpg "IMG_20130423_125302.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img_20130423_125554.jpg "IMG_20130423_125554.jpg")
+![image](/images/2013/04/wpid-img_20130423_125554.jpg "IMG_20130423_125554.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img_20130423_125457.jpg "IMG_20130423_125457.jpg")
+![image](/images/2013/04/wpid-img_20130423_125457.jpg "IMG_20130423_125457.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img_20130423_130328.jpg "IMG_20130423_130328.jpg")
+![image](/images/2013/04/wpid-img_20130423_130328.jpg "IMG_20130423_130328.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img_20130423_225930.jpg "IMG_20130423_225930.jpg")
+![image](/images/2013/04/wpid-img_20130423_225930.jpg "IMG_20130423_225930.jpg")
 
 

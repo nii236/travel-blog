@@ -21,7 +21,7 @@ In fact, everything seems to be made in Korea. Or at least was designed here. Th
 
 Normal tea is really hard to come by. It always ginseng or Herbal teas. Which apparently doesn’t taste good.
 
-![image](/travel-blog/images/2014/04/wpid-wp-1397705980858.jpg)
+![image](/images/2014/04/wpid-wp-1397705980858.jpg)
 
 Quite an aging population as well I think,  a lot of elderly people.
 
@@ -33,43 +33,43 @@ Wifi everywhere! Subway trains have wifi too! This bullet train has wifi! I don�
 
 
 
-![image](/travel-blog/images/2014/04/wpid-wp-13977014970951.jpg)I always prefer cash, card has failed me in the past
+![image](/images/2014/04/wpid-wp-13977014970951.jpg)I always prefer cash, card has failed me in the past
 
-![image](/travel-blog/images/2014/04/wpid-wp-13977020482791.jpg)We have to take our shoes off!
+![image](/images/2014/04/wpid-wp-13977020482791.jpg)We have to take our shoes off!
 
-![image](/travel-blog/images/2014/04/wpid-wp-13977020650171.jpg)We even get a washing machine with this motel which is great
+![image](/images/2014/04/wpid-wp-13977020650171.jpg)We even get a washing machine with this motel which is great
 
-![image](/travel-blog/images/2014/04/wpid-wp-13977020837811.jpg)Super hot soup, gigantic wolf dog, me sleeping weirdly This gigantic dog had a sign next to it which probably said DONT TOUCH, DANGER, GIANT WOLF DOG. But we don’t actually read korean well enough yet.
-
-
-
-![image](/travel-blog/images/2014/04/wpid-wp-1397706186666.jpg)LOOK AT THAT THING. I think it's a lion
-
-![image](/travel-blog/images/2014/04/wpid-wp-13977020876951.jpg)We were desperate, nowhere to hang clothes! The cleaning lady was probably shocked when she came in
-
-![image](/travel-blog/images/2014/04/wpid-wp-13977021472801.jpg)This is a smile of pain from the hot soup maybe?
-
-![image](/travel-blog/images/2014/04/wpid-wp-13977021626601.jpg)These were random European statue things
-
-
-![image](/travel-blog/images/2014/04/wpid-wp-13977021872811.jpg)
+![image](/images/2014/04/wpid-wp-13977020837811.jpg)Super hot soup, gigantic wolf dog, me sleeping weirdly This gigantic dog had a sign next to it which probably said DONT TOUCH, DANGER, GIANT WOLF DOG. But we don’t actually read korean well enough yet.
 
 
 
-![image](/travel-blog/images/2014/04/wpid-wp-13977022084031.jpg)We had a plate of sashimi, with disgusting mollusc stuff they killed on the spot
+![image](/images/2014/04/wpid-wp-1397706186666.jpg)LOOK AT THAT THING. I think it's a lion
 
-![image](/travel-blog/images/2014/04/wpid-wp-13977027443501.jpg)Eeew it's like eating slime
+![image](/images/2014/04/wpid-wp-13977020876951.jpg)We were desperate, nowhere to hang clothes! The cleaning lady was probably shocked when she came in
 
-![image](/travel-blog/images/2014/04/wpid-wp-13977023216331.jpg)Samsung fashion! Didn't go inside though, it looked pretty high end
+![image](/images/2014/04/wpid-wp-13977021472801.jpg)This is a smile of pain from the hot soup maybe?
 
-![image](/travel-blog/images/2014/04/wpid-wp-13977023541481.jpg)Steph was quite pleased with this photo, I think it is because of the dashingly handsome model she got to take snaps of
+![image](/images/2014/04/wpid-wp-13977021626601.jpg)These were random European statue things
 
-![image](/travel-blog/images/2014/04/wpid-wp-13977024058561.jpg)Cat cafe! I stayed far away from that place for obvious reasons
 
-![image](/travel-blog/images/2014/04/wpid-wp-13977024129241.jpg)This place was called gwangbok... Or something
-
-![image](/travel-blog/images/2014/04/wpid-wp-13977024242451.jpg)Hottoek! This hottoek stuff is basically pan fried sweet pancakes. In Busan there is a special one which have all the nuts and seeds in it which taste so damn good.
+![image](/images/2014/04/wpid-wp-13977021872811.jpg)
 
 
 
-![image](/travel-blog/images/2014/04/wpid-wp-13977024461881.jpg)HOTTOEK!
+![image](/images/2014/04/wpid-wp-13977022084031.jpg)We had a plate of sashimi, with disgusting mollusc stuff they killed on the spot
+
+![image](/images/2014/04/wpid-wp-13977027443501.jpg)Eeew it's like eating slime
+
+![image](/images/2014/04/wpid-wp-13977023216331.jpg)Samsung fashion! Didn't go inside though, it looked pretty high end
+
+![image](/images/2014/04/wpid-wp-13977023541481.jpg)Steph was quite pleased with this photo, I think it is because of the dashingly handsome model she got to take snaps of
+
+![image](/images/2014/04/wpid-wp-13977024058561.jpg)Cat cafe! I stayed far away from that place for obvious reasons
+
+![image](/images/2014/04/wpid-wp-13977024129241.jpg)This place was called gwangbok... Or something
+
+![image](/images/2014/04/wpid-wp-13977024242451.jpg)Hottoek! This hottoek stuff is basically pan fried sweet pancakes. In Busan there is a special one which have all the nuts and seeds in it which taste so damn good.
+
+
+
+![image](/images/2014/04/wpid-wp-13977024461881.jpg)HOTTOEK!

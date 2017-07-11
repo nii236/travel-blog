@@ -22,16 +22,16 @@ Naschmarkt was the next stop. This is a big market of some sort. Wasn’t very i
 
 Had my first schnitzel there too! It was pretty awesome, gigantic schnitzel. This would be one of many schnitzels to come. Also had a beer that no human could possibly finish. Yet I did after a lot of psyching myself up. It was like a litre of beer! I haven’t had a beer drinking training in my uni days after all.
 
-![image](/travel-blog/images/2013/04/wpid-img-20130425-wa0023.jpg "IMG-20130425-WA0023.jpg")
+![image](/images/2013/04/wpid-img-20130425-wa0023.jpg "IMG-20130425-WA0023.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img-20130425-wa0026.jpg "IMG-20130425-WA0026.jpg")
+![image](/images/2013/04/wpid-img-20130425-wa0026.jpg "IMG-20130425-WA0026.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img-20130425-wa0028.jpg "IMG-20130425-WA0028.jpg")
+![image](/images/2013/04/wpid-img-20130425-wa0028.jpg "IMG-20130425-WA0028.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img-20130425-wa0032.jpg "IMG-20130425-WA0032.jpg")
+![image](/images/2013/04/wpid-img-20130425-wa0032.jpg "IMG-20130425-WA0032.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img-20130425-wa0033.jpg "IMG-20130425-WA0033.jpg")
+![image](/images/2013/04/wpid-img-20130425-wa0033.jpg "IMG-20130425-WA0033.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img-20130425-wa0034.jpg "IMG-20130425-WA0034.jpg")
+![image](/images/2013/04/wpid-img-20130425-wa0034.jpg "IMG-20130425-WA0034.jpg")
 
 

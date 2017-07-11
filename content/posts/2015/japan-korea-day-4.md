@@ -12,11 +12,11 @@ tags = ["japan", "kobe", "asia"]
 
 Steph learnt to cook some tamagoyaki today! The host mother was happy to teach.
 
-![steph cooking](/travel-blog/images/2015/07/IMG_1103.jpg)
+![steph cooking](/images/2015/07/IMG_1103.jpg)
 
 I think it turned out okay, it tasted good. But then again, eggs are always da best!
 
-![breakfast](/travel-blog/images/2015/07/breakfast.jpg)
+![breakfast](/images/2015/07/breakfast.jpg)
 Those mini sausages were also very tasty!
 <br/>
 
@@ -24,15 +24,15 @@ Those mini sausages were also very tasty!
 
 Today we decided to go ahead and explore the city in Kobe. It was **HOT**! Not hot hot, but sticky, humid hot. We don't know why everyone was complaining that yesterday was hot, when it was miserable, raining and cool. Today was more like it. Its like 50% of Ghana humidity and heat, so I personally didn't have any problem. But it was somewhat unpleasant.
 
-![police with fans](/travel-blog/images/2015/07/police-handing-out-fans.jpg)
+![police with fans](/images/2015/07/police-handing-out-fans.jpg)
 But its okay, because the police were handing out free fans to everyone!
 
 We also found some strange snacks:
 
-![](/travel-blog/images/2015/07/IMG_1109.jpg)
+![](/images/2015/07/IMG_1109.jpg)
 As usual, Steph found it first.
 
-![mochi doughnut](/travel-blog/images/2015/07/IMG_1114.jpg)
+![mochi doughnut](/images/2015/07/IMG_1114.jpg)
 
 Mysterious mochi... mango flavoured... gummy sticky doughnuts. Ugh... They're as good as they sound.
 
@@ -40,38 +40,38 @@ Mysterious mochi... mango flavoured... gummy sticky doughnuts. Ugh... They're as
 
 Kitano-cho is an area that has a lot of buildings with European architecture.
 
-![selfie house](/travel-blog/images/2015/07/20150709_110502.jpg)
+![selfie house](/images/2015/07/20150709_110502.jpg)
 
 Some of the places might have been interesting to go to, but one of the buildings was under renovation for improving earthquake resistance. The project finish date was 2017! Wuuuut! Maybe they just build really slow. Or they have to import European workers to work on the European buildings. I dunno.
 
-![](/travel-blog/images/2015/07/walking.jpg)
+![](/images/2015/07/walking.jpg)
 We walked around aimlessly for awhile and then continued on the city loop bus to...
 
 ## Nunnobiki Ropeway!
 
-![ropeway](/travel-blog/images/2015/07/ropeway.JPG)
+![ropeway](/images/2015/07/ropeway.JPG)
 
 This was interesting for the view I suppose. It was a cable car, and neither of us were that good with heights.
 
-![Scared look ropeway pic](/travel-blog/images/2015/07/scared-nunnobiki.jpg)
+![Scared look ropeway pic](/images/2015/07/scared-nunnobiki.jpg)
 
 Also there was a fragrance museum where you can... smell things! Hardly anyone was here, it was a bit like a ghost town.
-![Nunobiki souvenir shop](/travel-blog/images/2015/07/nunnobiki-souvenir.jpg)
+![Nunobiki souvenir shop](/images/2015/07/nunnobiki-souvenir.jpg)
 
 Yeah there wasn't much to do here. Ideally what you'd do was take the ropeway to the top of the mountain and then walk down and enjoy the herb gardens on the way down. I would've liked to ride a bike all the way down.
-![Herb Garden](/travel-blog/images/2015/07/herb-garden.jpg)
+![Herb Garden](/images/2015/07/herb-garden.jpg)
 
 ## Nankin-machi (Chinatown)
 
-![Chinatown 1](/travel-blog/images/2015/07/20150709_112218.jpg)
+![Chinatown 1](/images/2015/07/20150709_112218.jpg)
 
 So apparently I was born in the year of the rabbit, not the cat. I refuse to believe this though.
 
-![Chinatown 2](/travel-blog/images/2015/07/20150709_112509-1.jpg)
+![Chinatown 2](/images/2015/07/20150709_112509-1.jpg)
 
 We were in Chinatown for a couple of minutes. Mostly food there, we didn't hang around for long.
 
-![Panda killing shoes](/travel-blog/images/2015/07/20150709_112644.jpg)
+![Panda killing shoes](/images/2015/07/20150709_112644.jpg)
 
 These shoes symbolize the plight of pandas all over the world, being crushed under the heels of humans, in particular young Japanese ladies that have poor fashion sense.
 
@@ -83,17 +83,17 @@ We finally got to eat some Kobe beef! This stuff is pretty famous, and authentic
 
 We went to a place called "Steakland" too late in the afternoon and missed the lunch menu, so we ended up having to spend a large amount of money off the dinner menu.
 
-![image of steakland](/travel-blog/images/2015/07/IMG_1241.jpg)
+![image of steakland](/images/2015/07/IMG_1241.jpg)
 
 Price aside, the food was pretty amazing.
-![finished meat](/travel-blog/images/2015/07/kobebeef.jpg)
+![finished meat](/images/2015/07/kobebeef.jpg)
 The meat doesn't compare to Hida beef in Takayama though, which was cheaper and tastier!
 
 ## Final night in Kobe
 
 Tonight was the last night with our host family.
 
-![Family photo](/travel-blog/images/2015/07/IMG_1258.jpg)
+![Family photo](/images/2015/07/IMG_1258.jpg)
 
 Okaa-san made us Tonkatsu Curry. The twin boys were playing with my PS Vita and 3DS. We had a chat with one of the other guests living there, who is an exchange student from Hawaii. Some tidbits of information that we managed to glean:
 

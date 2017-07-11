@@ -8,16 +8,16 @@ tags = [ "Indonesia", "Bali", "Jimbaran" ]
 
 # Simple 15 Minute Trip
 
-![accomodation](/travel-blog/images/2017/01/jimbaran1/jimbaran1_10.jpg)
-![accomodation](/travel-blog/images/2017/01/jimbaran1/jimbaran1_11.jpg)
+![accomodation](/images/2017/01/jimbaran1/jimbaran1_10.jpg)
+![accomodation](/images/2017/01/jimbaran1/jimbaran1_11.jpg)
 
 The accomodation here is amazing! Made is a superhost, meaning that you really can't go wrong with this place.
 
-![scooter](/travel-blog/images/2017/01/jimbaran1/jimbaran1_09.jpg)
+![scooter](/images/2017/01/jimbaran1/jimbaran1_09.jpg)
 
 We rented a scooter.
 
-![scooter](/travel-blog/images/2017/01/jimbaran1/jimbaran1_01.jpg)
+![scooter](/images/2017/01/jimbaran1/jimbaran1_01.jpg)
 
 This evening we had a traditional Balinese dance at the Ayana resort, unfortunately Google Maps has failed us!
 
@@ -33,18 +33,18 @@ Thunderstorm was about to kick off so we ended up taking a taxi back and leaving
 
 # Better News
 
-![pool](/travel-blog/images/2017/01/jimbaran1/jimbaran1_07.jpg)
+![pool](/images/2017/01/jimbaran1/jimbaran1_07.jpg)
 
 We eventually made it!
 
-![us](/travel-blog/images/2017/01/jimbaran1/jimbaran1_06.jpg)
+![us](/images/2017/01/jimbaran1/jimbaran1_06.jpg)
 
 The resort itself was absolutely amazing! The dance itself was absolutely bonkers bizarre, the food was pretty good and the resort itself blew me away.
 
-![food](/travel-blog/images/2017/01/jimbaran1/jimbaran1_02.jpg)
-![food](/travel-blog/images/2017/01/jimbaran1/jimbaran1_03.jpg)
-![food](/travel-blog/images/2017/01/jimbaran1/jimbaran1_04.jpg)
-![food](/travel-blog/images/2017/01/jimbaran1/jimbaran1_05.jpg)
+![food](/images/2017/01/jimbaran1/jimbaran1_02.jpg)
+![food](/images/2017/01/jimbaran1/jimbaran1_03.jpg)
+![food](/images/2017/01/jimbaran1/jimbaran1_04.jpg)
+![food](/images/2017/01/jimbaran1/jimbaran1_05.jpg)
 
 It was a buffet obviously. 
 

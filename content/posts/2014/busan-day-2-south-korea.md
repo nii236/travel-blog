@@ -26,35 +26,35 @@ Not sure why but I was feeling pretty bad on this day, puked the days contents a
 Went to eat dinner at the pork bbq place yet again. Good stuff. Same staff seemed happy to see us. We’re regulars!
 
 
-![image](/travel-blog/images/2014/04/wpid-wp-1397703856479.jpg)
+![image](/images/2014/04/wpid-wp-1397703856479.jpg)
 
 
-![image](/travel-blog/images/2014/04/wpid-wp-1397703877911.jpg)
+![image](/images/2014/04/wpid-wp-1397703877911.jpg)
 
-![image](/travel-blog/images/2014/04/wpid-wp-1397703894704.jpg)
+![image](/images/2014/04/wpid-wp-1397703894704.jpg)
 
-![image](/travel-blog/images/2014/04/wpid-wp-1397703899681.jpg)
+![image](/images/2014/04/wpid-wp-1397703899681.jpg)
 
-![image](/travel-blog/images/2014/04/wpid-wp-1397703952314.jpg)
+![image](/images/2014/04/wpid-wp-1397703952314.jpg)
 
-![image](/travel-blog/images/2014/04/wpid-wp-1397703965033.jpg)
+![image](/images/2014/04/wpid-wp-1397703965033.jpg)
 
-![image](/travel-blog/images/2014/04/wpid-wp-1397703991286.jpg)
+![image](/images/2014/04/wpid-wp-1397703991286.jpg)
 
-![image](/travel-blog/images/2014/04/wpid-wp-1397704107905.jpg)
+![image](/images/2014/04/wpid-wp-1397704107905.jpg)
 
-![image](/travel-blog/images/2014/04/wpid-wp-1397704012581.jpg)
+![image](/images/2014/04/wpid-wp-1397704012581.jpg)
 
-![image](/travel-blog/images/2014/04/wpid-wp-1397704023788.jpg)
+![image](/images/2014/04/wpid-wp-1397704023788.jpg)
 
 We went to a dog cafe. And no it doesn’t involve eating dogs, rather playing with puppies (filthy, dirty animals) while eating.
 
-![image](/travel-blog/images/2014/04/wpid-wp-1397704043814.jpg)
+![image](/images/2014/04/wpid-wp-1397704043814.jpg)
 
-![image](/travel-blog/images/2014/04/wpid-wp-1397704057627.jpg)
+![image](/images/2014/04/wpid-wp-1397704057627.jpg)
 
-![image](/travel-blog/images/2014/04/wpid-wp-1397704118654.jpg)
+![image](/images/2014/04/wpid-wp-1397704118654.jpg)
 
-![image](/travel-blog/images/2014/04/wpid-wp-1397704134384.jpg)
+![image](/images/2014/04/wpid-wp-1397704134384.jpg)
 
-![image](/travel-blog/images/2014/04/wpid-wp-1397704139613.jpg)
+![image](/images/2014/04/wpid-wp-1397704139613.jpg)

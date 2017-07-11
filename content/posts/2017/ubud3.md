@@ -8,13 +8,13 @@ tags = [ "Indonesia", "Bali", "Ubud" ]
 
 # Raftin'
 
-![Breakfast](/travel-blog/images/2017/01/ubud3/ubud3_03.jpg)
+![Breakfast](/images/2017/01/ubud3/ubud3_03.jpg)
 
 Our host was kind enough to prepare breakfast for us before we left. Today is the day we will go white water rafting. 
 
 The driver picked us up at 8:30am to go to Payung White Water Rafting. His name was Dhono and he was actually a really cool guy. We got his business card to share with people who might be in the area in the future.
 
-![Rafts](/travel-blog/images/2017/01/ubud3/ubud3_02.jpg)
+![Rafts](/images/2017/01/ubud3/ubud3_02.jpg)
 
 Unfortunately right at the beginning we had to walk down 500 steps. These aren't your typical steps, no, these are Indonesian stairs. So we had slippery stairs, muddy stairs, uneven stairs, missing stairs, all the way down. It was pretty challenging and by the end of it we've got jello legs.
 
@@ -30,17 +30,17 @@ We walked over to the (absolutely disgusting) showers, had lunch then went back 
 
 We were pretty pooped so luckily we booked a massage/spa thing at Sang Spa! It was pretty sweet, I ended up falling asleep during the massage and was snoring really loudly. I hope that shows that I'm appreciating the massage!
 
-![Sang Spa](/travel-blog/images/2017/01/ubud3/ubud3_01.jpg)
+![Sang Spa](/images/2017/01/ubud3/ubud3_01.jpg)
 
 For dinner we ate at Puspa's Warung.
 
-![Pie Lady](/travel-blog/images/2017/01/ubud3/ubud3_04.jpg)
+![Pie Lady](/images/2017/01/ubud3/ubud3_04.jpg)
 
 Ads for pies at the restaurant.
 
-![Food](/travel-blog/images/2017/01/ubud3/ubud3_05.jpg)
-![Food](/travel-blog/images/2017/01/ubud3/ubud3_06.jpg)
-![Food](/travel-blog/images/2017/01/ubud3/ubud3_07.jpg)
+![Food](/images/2017/01/ubud3/ubud3_05.jpg)
+![Food](/images/2017/01/ubud3/ubud3_06.jpg)
+![Food](/images/2017/01/ubud3/ubud3_07.jpg)
 
 Foods.
 

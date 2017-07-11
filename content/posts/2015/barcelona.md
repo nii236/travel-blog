@@ -8,7 +8,7 @@ tags = [ "Europe", "2015", "Spain", "Barcelona" ]
 
 So here we are!
 
-![Tablao de Carmen](/travel-blog/images/2016/01/barcelona_04.jpg)
+![Tablao de Carmen](/images/2016/01/barcelona_04.jpg)
 
 This is the last stop before heading back to Perth. We were in Barcelona for a few days (maybe four?).
 
@@ -20,11 +20,11 @@ In Barcelona we were much slower paced and chilled out.
 # Flamenco
 Steph was feeling (extremely) ill so I ended up going to a flamenco performance on my own. It was surprisingly good and definitely worth going to.
 
-![Tablao de Carmen](/travel-blog/images/2016/01/barcelona_02.jpg)
+![Tablao de Carmen](/images/2016/01/barcelona_02.jpg)
 
 There was plenty of food too! Way too much for just me. I think I ended up eating about 10% of the food.
 
-![Tablao de Carmen 2](/travel-blog/images/2016/01/barcelona_03.jpg)
+![Tablao de Carmen 2](/images/2016/01/barcelona_03.jpg)
 
 The place is called Tablao de Carmen and is located in the Poble Espanyol. The Poble Espanyol is an architectural museum of sorts. Basically a giant enclosed village/castle... thing.
 
@@ -34,35 +34,35 @@ So I hear that there was a famous architect here by the name of Gaudi. We didn't
 ## Sagrada Familia
 The sagrada familia is a famous church (still under construction for the past hundred or so years). Each side looks entirely different and every part of the church itself has symbolic meaning. It was pretty epic.
 
-![Sagrada Familia](/travel-blog/images/2016/01/barcelona_10.jpg)
+![Sagrada Familia](/images/2016/01/barcelona_10.jpg)
 
 I mean holy crap look at that thing!
 
 ## Casa Batllo
 I went to the Casa Batllo on my own with my electric superbike.
 
-![Bike](/travel-blog/images/2016/01/barcelona_05.jpg)
+![Bike](/images/2016/01/barcelona_05.jpg)
 
 It was one of Gaudi's great masterpieces (or so I'm told) and is basically a house with really weird architecture.
 
-![Casa Batllo](/travel-blog/images/2016/01/barcelona_06.jpg)
+![Casa Batllo](/images/2016/01/barcelona_06.jpg)
 
 It contains no straight lines and is basically what you'd expect to see in sci fi underwater houses. Wobbly walls, round windows, squircular ceilings.
 
 # Food
 Spanish food is mostly tapas. Bravas was something we ate quite often, which was basically loaded wedges.
 
-![7 portes](/travel-blog/images/2016/01/barcelona_01.jpg)
+![7 portes](/images/2016/01/barcelona_01.jpg)
 
 This was the first (decent) place we went to, 7 Portes. The paella was great! Monkfish also.
 
-![Crepe](/travel-blog/images/2016/01/barcelona_07.jpg)
+![Crepe](/images/2016/01/barcelona_07.jpg)
 
 This was a really really good crepe I had near Casa Batllo.
 
-![Tapas](/travel-blog/images/2016/01/barcelona_08.jpg)
+![Tapas](/images/2016/01/barcelona_08.jpg)
 
-![Suckling Pig](/travel-blog/images/2016/01/barcelona_09.jpg)
+![Suckling Pig](/images/2016/01/barcelona_09.jpg)
 
 At the end of the trip we splurged on what was apparently traditional Spanish food - suckling pig! And tapas before that.
 

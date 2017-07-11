@@ -11,7 +11,7 @@ aliases = [
 Well this was my supposed last day of my trip! Supposed… right.
 
 
-![](/travel-blog/images/2012/07/hong-kong-mkii-23-07-2012-10-01-27-pm.jpg?w=225 "Hong Kong MKII 23-07-2012 10-01-27 PM")](/travel-blog/images/2012/07/hong-kong-mkii-23-07-2012-10-01-27-pm.jpg)Children have priority for some reason hereSo we got up and dashed over to the airport. Very pleasant being able to use the subway/MTR system for access to the airport. The flight was delayed by three hours and I was concerned that we would not be able to catch the connecting flight from KL to Perth in time at this rate! It’ll be close, but it should fit.
+![](/images/2012/07/hong-kong-mkii-23-07-2012-10-01-27-pm.jpg?w=225 "Hong Kong MKII 23-07-2012 10-01-27 PM")](/images/2012/07/hong-kong-mkii-23-07-2012-10-01-27-pm.jpg)Children have priority for some reason hereSo we got up and dashed over to the airport. Very pleasant being able to use the subway/MTR system for access to the airport. The flight was delayed by three hours and I was concerned that we would not be able to catch the connecting flight from KL to Perth in time at this rate! It’ll be close, but it should fit.
 
   
   
@@ -23,13 +23,13 @@ We dropped by the little convenience store to grab some food for the plane. Turn
 We were pretty hungry but there wasn’t any time for proper food. We opted for some McDonalds takeaway, grudgingly. The line was gigantic. There were people absolutely everywhere, sleeping on the floor etc. They were all stranded because of the typhoon and there were thousands of displaced people.
 
 
-![](/travel-blog/images/2012/07/hong-kong-mkii-24-07-2012-1-11-03-pm.jpg?w=300 "Hong Kong MKII 24-07-2012 1-11-03 PM")](/travel-blog/images/2012/07/hong-kong-mkii-24-07-2012-1-11-03-pm.jpg)Or maybe Chinese people really like McDonalds
-![](/travel-blog/images/2012/07/hong-kong-mkii-24-07-2012-1-10-58-pm.jpg?w=300 "Hong Kong MKII 24-07-2012 1-10-58 PM")](/travel-blog/images/2012/07/hong-kong-mkii-24-07-2012-1-10-58-pm.jpg)Nah, there were literally thousands of people
-![](/travel-blog/images/2012/07/hong-kong-mkii-24-07-2012-1-11-59-pm_1512x324.jpg?w=300 "Hong Kong MKII 24-07-2012 1-11-59 PM_1512x324")](/travel-blog/images/2012/07/hong-kong-mkii-24-07-2012-1-11-59-pm_1512x324.jpg)A sea of people!
-![](/travel-blog/images/2012/07/hong-kong-mkii-24-07-2012-1-19-11-pm_1296x972.jpg?w=300 "Hong Kong MKII 24-07-2012 1-19-11 PM_1296x972")](/travel-blog/images/2012/07/hong-kong-mkii-24-07-2012-1-19-11-pm_1296x972.jpg)Some guys look really comfortable thoughThe McDonalds was actually pretty good surprisingly enough. (though I’m in Hong Kong so the food is automatically tasty no matter where I eat). Had two burgers, big and tasty, and the Chicken something. I bought two big and tasties by accident, but no matter, I scoffed the burgers down like it was just one burger! Steph was very impressed.
+![](/images/2012/07/hong-kong-mkii-24-07-2012-1-11-03-pm.jpg?w=300 "Hong Kong MKII 24-07-2012 1-11-03 PM")](/images/2012/07/hong-kong-mkii-24-07-2012-1-11-03-pm.jpg)Or maybe Chinese people really like McDonalds
+![](/images/2012/07/hong-kong-mkii-24-07-2012-1-10-58-pm.jpg?w=300 "Hong Kong MKII 24-07-2012 1-10-58 PM")](/images/2012/07/hong-kong-mkii-24-07-2012-1-10-58-pm.jpg)Nah, there were literally thousands of people
+![](/images/2012/07/hong-kong-mkii-24-07-2012-1-11-59-pm_1512x324.jpg?w=300 "Hong Kong MKII 24-07-2012 1-11-59 PM_1512x324")](/images/2012/07/hong-kong-mkii-24-07-2012-1-11-59-pm_1512x324.jpg)A sea of people!
+![](/images/2012/07/hong-kong-mkii-24-07-2012-1-19-11-pm_1296x972.jpg?w=300 "Hong Kong MKII 24-07-2012 1-19-11 PM_1296x972")](/images/2012/07/hong-kong-mkii-24-07-2012-1-19-11-pm_1296x972.jpg)Some guys look really comfortable thoughThe McDonalds was actually pretty good surprisingly enough. (though I’m in Hong Kong so the food is automatically tasty no matter where I eat). Had two burgers, big and tasty, and the Chicken something. I bought two big and tasties by accident, but no matter, I scoffed the burgers down like it was just one burger! Steph was very impressed.
 
 
-![](/travel-blog/images/2012/07/hong-kong-mkii-24-07-2012-1-03-33-pm.jpg?w=300 "Hong Kong MKII 24-07-2012 1-03-33 PM")](/travel-blog/images/2012/07/hong-kong-mkii-24-07-2012-1-03-33-pm.jpg)Not to mention that they looked overstaffed but as usual they were all super efficient, never tripped over one another, and pumped out meal after meal after mealWhile eating we kept dashing back and forth to the flights board hoping that our flight would have a gate number. After awhile it did but the delay was so great there was no way we were going to catch the Perth flight in time! 
+![](/images/2012/07/hong-kong-mkii-24-07-2012-1-03-33-pm.jpg?w=300 "Hong Kong MKII 24-07-2012 1-03-33 PM")](/images/2012/07/hong-kong-mkii-24-07-2012-1-03-33-pm.jpg)Not to mention that they looked overstaffed but as usual they were all super efficient, never tripped over one another, and pumped out meal after meal after mealWhile eating we kept dashing back and forth to the flights board hoping that our flight would have a gate number. After awhile it did but the delay was so great there was no way we were going to catch the Perth flight in time! 
 ![:(](http://localhost:8888/wordpress/wp-includes/images/smilies/icon_sad.gif)
 
 =====Long four hour flight later=====

@@ -32,22 +32,22 @@ Once we made it to Egypt we decided to eat japanese food. Obviously since we wer
 
 Once we got back we basically fell into bed unconscious from the busy day. Probably around 9pm. With this sort of brutal treatment of our bodies we will soon become walking machines!
 
-![image](/travel-blog/images/2013/04/wpid-img_20130422_110837.jpg "IMG_20130422_110837.jpg")
+![image](/images/2013/04/wpid-img_20130422_110837.jpg "IMG_20130422_110837.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img_20130422_111356.jpg "IMG_20130422_111356.jpg")
+![image](/images/2013/04/wpid-img_20130422_111356.jpg "IMG_20130422_111356.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img_20130422_131922.jpg "IMG_20130422_131922.jpg")
+![image](/images/2013/04/wpid-img_20130422_131922.jpg "IMG_20130422_131922.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img-20130425-wa0005.jpg "IMG-20130425-WA0005.jpg")
+![image](/images/2013/04/wpid-img-20130425-wa0005.jpg "IMG-20130425-WA0005.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img-20130425-wa0003.jpg "IMG-20130425-WA0003.jpg")
+![image](/images/2013/04/wpid-img-20130425-wa0003.jpg "IMG-20130425-WA0003.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img_20130422_134224.jpg "IMG_20130422_134224.jpg")
+![image](/images/2013/04/wpid-img_20130422_134224.jpg "IMG_20130422_134224.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img-20130425-wa0010.jpg "IMG-20130425-WA0010.jpg")
+![image](/images/2013/04/wpid-img-20130425-wa0010.jpg "IMG-20130425-WA0010.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img-20130425-wa0006.jpg "IMG-20130425-WA0006.jpg")
+![image](/images/2013/04/wpid-img-20130425-wa0006.jpg "IMG-20130425-WA0006.jpg")
 
-![image](/travel-blog/images/2013/04/wpid-img-20130425-wa0013.jpg "IMG-20130425-WA0013.jpg")
+![image](/images/2013/04/wpid-img-20130425-wa0013.jpg "IMG-20130425-WA0013.jpg")
 
 

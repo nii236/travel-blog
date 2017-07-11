@@ -13,22 +13,22 @@ We finally made it to Bern! Getting here was a lot more effort than you'd expect
 # Cat Kingdom
 So the guy has a cat door, and random cats keep entering and leaving. I've seen two cats so far and I'm pretty sure there are way more.
 
-![Champ cat](/travel-blog/images/2015/12/bern1.jpg)
+![Champ cat](/images/2015/12/bern1.jpg)
 
 I got nothing against cats. They're cute and fluffy animal. But my allergies certainly don't agree! I gotta dose up on antihistamines for this entire stay.
 
 # The Place
 So the guy used to own a bakery here. It's actually really nice!
 
-![Picture from bedroom](/travel-blog/images/2015/12/bern2.jpg)
+![Picture from bedroom](/images/2015/12/bern2.jpg)
 
 It smells like pastries every morning which can be really distracting.
 
-![Croissants](/travel-blog/images/2015/12/bern4.jpg)
+![Croissants](/images/2015/12/bern4.jpg)
 
 He also gives us home baked croissants every morning! They taste amazing!
 
-![fog](/travel-blog/images/2015/12/bern3.jpg)
+![fog](/images/2015/12/bern3.jpg)
 
 It gets really foggy in that area at night since its near a river. We're talking Silent Hill foggy here.
 
