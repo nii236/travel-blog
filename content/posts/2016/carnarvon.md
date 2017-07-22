@@ -3,7 +3,7 @@ date = "2016-10-01T18:57:11+08:00"
 description = "Its really far (476km)"
 title = "Carnarvon"
 slug = "carnarvon"
-tags = [ "Australia", "2016", "Western Australia" ]
+tags = [ "Australia", "Western Australia" ]
 +++
 
 So we continued on our extremely long journey to Exmouth.

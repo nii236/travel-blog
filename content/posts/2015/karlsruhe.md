@@ -3,7 +3,7 @@ date = "2015-12-30T19:25:11+08:00"
 description = "On the France-German-Swiss Border"
 title = "Karlsruhe"
 slug = "karlsruhe"
-tags = [ "Europe", "2015", "Switzerland", "Karlsruhe" ]
+tags = [ "Europe", "Switzerland", "Karlsruhe" ]
 +++
 
 # Karlsruhe

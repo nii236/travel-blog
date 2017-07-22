@@ -3,7 +3,7 @@ date = "2016-10-08T20:40:11+08:00"
 description = "Long trip halfway back (401km)"
 title = "Kalbarri"
 slug = "kalbarri"
-tags = [ "Australia", "2016", "Western Australia" ]
+tags = [ "Australia", "Western Australia" ]
 +++
 
 We got up super early today, at 730am. This was so we actually see the dolphins this time around.

@@ -3,7 +3,7 @@ date = "2016-10-06T20:40:11+08:00"
 description = "Dolphins are smart (580km)"
 title = "Monkey Mia First Day"
 slug = "monkeymia1"
-tags = [ "Australia", "2016", "Western Australia" ]
+tags = [ "Australia", "Western Australia" ]
 +++
 
 Today is the first day of major MAJOR driving.

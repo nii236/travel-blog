@@ -3,7 +3,7 @@ date = "2015-12-23T19:25:11+08:00"
 description = "The Metaphorical Centre of Cheese"
 title = "Gruyere"
 slug = "gruyere"
-tags = [ "Europe", "2015", "Switzerland", "Gruyere" ]
+tags = [ "Europe", "Switzerland", "Gruyere" ]
 +++
 
 # Gruyere

@@ -3,7 +3,7 @@ date = "2015-12-24T19:25:11+08:00"
 description = "The Altitudic Top of Europe"
 title = "Jungfraujoch"
 slug = "jungfraujoch"
-tags = [ "Europe", "2015", "Switzerland", "Jungfraujoch" ]
+tags = [ "Europe", "Switzerland", "Jungfraujoch" ]
 +++
 
 ![Jungfraujoch](/images/2015/12/Jungfraujoch - 07.jpg)

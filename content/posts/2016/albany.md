@@ -3,7 +3,7 @@ date = "2016-03-06T19:25:11+08:00"
 description = "Cold"
 title = "Albany"
 slug = "albany"
-tags = [ "Australia", "2016", "Albany", "Western Australia" ]
+tags = [ "Australia", "Albany", "Western Australia" ]
 +++
 
 # Albany

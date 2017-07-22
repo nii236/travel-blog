@@ -3,7 +3,7 @@ date = "2016-10-01T18:57:11+08:00"
 description = "Its far (390km)"
 title = "Geraldton"
 slug = "geraldton"
-tags = [ "Australia", "2016", "Western Australia" ]
+tags = [ "Australia", "Western Australia" ]
 +++
 
 For some mysterious reason we decided to drive all the way to Exmouth. The place is allegedly great for snorkelling, swimming, beach activities among other things that we never ever do or have interest in.

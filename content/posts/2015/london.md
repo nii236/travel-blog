@@ -3,7 +3,7 @@ date = "2016-01-11T19:25:11+08:00"
 description = "ALLO GUVNOR"
 title = "London"
 slug = "london"
-tags = [ "Europe", "2015", "United Kingdom", "London" ]
+tags = [ "Europe", "United Kingdom", "London" ]
 +++
 
 # London

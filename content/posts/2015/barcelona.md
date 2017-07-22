@@ -3,7 +3,7 @@ date = "2016-01-15T19:25:11+08:00"
 description = "Last stop"
 title = "Barcelona"
 slug = "barcelona"
-tags = [ "Europe", "2015", "Spain", "Barcelona" ]
+tags = [ "Europe", "Spain", "Barcelona" ]
 +++
 
 So here we are!

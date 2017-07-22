@@ -3,7 +3,7 @@ date = "2015-12-22T19:25:11+08:00"
 description = "Its a Bear City"
 title = "Bern"
 slug = "bern"
-tags = [ "Europe", "2015", "Switzerland", "Bern" ]
+tags = [ "Europe", "Switzerland", "Bern" ]
 +++
 
 # Bern!

@@ -3,7 +3,7 @@ date = "2016-10-04T20:40:11+08:00"
 description = "Oh this is pretty fun actually"
 title = "Exmouth Second Day"
 slug = "exmouth2"
-tags = [ "Australia", "2016", "Western Australia" ]
+tags = [ "Australia", "Western Australia" ]
 +++
 
 So today was the first tour of the trip. We were looking forward to it, mostly because we travelled three days to get to this point!

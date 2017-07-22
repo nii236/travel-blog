@@ -3,7 +3,7 @@ date = "2015-12-26T19:25:11+08:00"
 description = "The Capital of Switzerland"
 title = "Zurich"
 slug = "zurich"
-tags = [ "Europe", "2015", "Switzerland", "Zurich" ]
+tags = [ "Europe", "Switzerland", "Zurich" ]
 +++
 
 Before we head into Germany, we have a single night in Zurich.

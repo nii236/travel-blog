@@ -3,7 +3,7 @@ date = "2016-10-05T20:40:11+08:00"
 description = "Fishies (151km)"
 title = "Coral bay"
 slug = "coral bay"
-tags = [ "Australia", "2016", "Western Australia" ]
+tags = [ "Australia", "Western Australia" ]
 +++
 
 So today is the most vigorous and adventurous thing we've done together since ever!

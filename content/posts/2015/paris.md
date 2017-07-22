@@ -3,7 +3,7 @@ date = "2016-01-07T19:25:11+08:00"
 description = "I feel so classy"
 title = "Paris"
 slug = "paris"
-tags = [ "Europe", "2015", "France", "Paris" ]
+tags = [ "Europe", "France", "Paris" ]
 +++
 
 # Paris!

@@ -3,7 +3,7 @@ date = "2016-07-11T19:25:11+08:00"
 description = "Its bigger than Perth"
 title = "Sydney"
 slug = "sydney"
-tags = [ "Australia", "2016", "Sydney", "New South Wales" ]
+tags = [ "Australia", "Sydney", "New South Wales" ]
 +++
 
 # Sydney

@@ -3,7 +3,7 @@ date = "2016-10-07T20:40:11+08:00"
 description = "Lazy Friday"
 title = "Monkey Mia Second Day"
 slug = "monkeymia2"
-tags = [ "Australia", "2016", "Western Australia" ]
+tags = [ "Australia", "Western Australia" ]
 +++
 
 So this is the second day at Monkey Mia.

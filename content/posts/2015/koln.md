@@ -3,7 +3,7 @@ date = "2015-12-31T19:25:11+08:00"
 description = "Cologne"
 title = "Koln"
 slug = "koln"
-tags = [ "Europe", "2015", "Germany", "Koln" ]
+tags = [ "Europe", "Germany", "Koln" ]
 +++
 
 The idea was to stop by Koln on the way to Amsterdam as a stopover point, otherwise it'll take way too long to get there! Good call I think, it took 4 hours to get here already. I'd rather not have to wait another 4 on the train!

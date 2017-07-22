@@ -3,7 +3,7 @@ date = "2016-10-03T20:40:11+08:00"
 description = "ohgodwhykillmenow (363km)"
 title = "Exmouth"
 slug = "exmouth"
-tags = [ "Australia", "2016", "Western Australia" ]
+tags = [ "Australia", "Western Australia" ]
 +++
 
 Oh god we're finally here!

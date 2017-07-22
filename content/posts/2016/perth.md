@@ -3,7 +3,7 @@ date = "2016-10-09T20:40:11+08:00"
 description = "We travelled almost 3500km!!! (573km)"
 title = "Perth"
 slug = "perth"
-tags = [ "Australia", "2016", "Western Australia" ]
+tags = [ "Australia", "Western Australia" ]
 +++
 
 ![view](/images/2016/perth/view.jpg)

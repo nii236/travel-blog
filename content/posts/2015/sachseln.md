@@ -3,7 +3,7 @@ date = "2015-12-25T19:25:11+08:00"
 description = "The Geographic centre of Switzerland"
 title = "Sachseln"
 slug = "sachseln"
-tags = [ "Europe", "2015", "Switzerland", "Sachseln" ]
+tags = [ "Europe", "Switzerland", "Sachseln" ]
 +++
 
 Sachseln is a small town in the geographic centre of Switzerland. A big deal apparently! Only about 5000 people live here. There's a big church and that's about it really. The house we're staying in is pretty amazing, super high tech facilities but also a traditional wooden house.
