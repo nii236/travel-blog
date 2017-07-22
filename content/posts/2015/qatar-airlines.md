@@ -3,7 +3,7 @@ date = "2015-12-21T19:25:11+08:00"
 description = ""
 title = "Qatar Airlines"
 slug = "qatar-airlines"
-tags = [ "Europe", "2015" ]
+tags = [ "Europe" ]
 +++
 
 # Europe! (In 20 hours anyway)
