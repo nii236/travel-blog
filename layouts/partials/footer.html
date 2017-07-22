@@ -1,0 +1,7 @@
+<footer id="footer">
+            	<p class="small">
+		  {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+			<a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>
+		  {{ end }}
+		</p>
+</footer>
