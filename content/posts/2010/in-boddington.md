@@ -1,4 +1,5 @@
 +++
+tags = ["western-australia", "boddington"]
 date = "2010-12-10T14:45:50+08:00"
 draft = false
 title = "In Boddington"

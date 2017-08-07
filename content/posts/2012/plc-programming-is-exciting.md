@@ -1,4 +1,5 @@
 +++
+tags = ["general"]
 date = "2012-08-10T14:24:20+08:00"
 draft = false
 title = "PLC programming is exciting!"

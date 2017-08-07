@@ -1,4 +1,5 @@
 +++
+tags = ["general"]
 date = "2010-10-07T10:34:02+08:00"
 draft = false
 title = "Hello world!"

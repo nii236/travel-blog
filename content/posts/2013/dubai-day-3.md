@@ -1,4 +1,5 @@
 +++
+tags = ["dubai", "UAE", "asia"]
 date = "2013-04-24T01:18:00+08:00"
 draft = false
 title = "Dubai Day 3"
