@@ -1,4 +1,5 @@
 +++
+tags = ["japan", "asia"]
 date = "2008-12-09T21:36:00+09:00"
 draft = false
 title = "Ueno park"
@@ -8,7 +9,7 @@ aliases = [
 ]
 +++
 
-[](/images/2010/10/dscf0016.jpg)
+![](/images/2010/10/dscf0016.jpg)
 
 After an hour of travelling on foot, we managed to reach the Ueno Park. Pretty cool. There was a buddhist shrine there!Here are some photos I took before we left. Cold and raining today.
 ![](/images/2010/10/dscf0016.jpg)Chilling… This was taken from the rooftop of where I’m staying. A cemetary is so close by! A wall has been erected around the cemetary to scare people walking around it I suppose.

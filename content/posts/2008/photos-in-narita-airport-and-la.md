@@ -1,4 +1,5 @@
 +++
+tags = ["japan", "asia"]
 date = "2008-11-30T18:16:00+09:00"
 draft = false
 title = "Photos in Narita airport and LA"

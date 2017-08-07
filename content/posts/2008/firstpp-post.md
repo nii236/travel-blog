@@ -1,4 +1,5 @@
 +++
+tags = ["california", "america", "japan", "asia"]
 date = "2008-11-24T21:37:00+09:00"
 draft = false
 title = "First post"

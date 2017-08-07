@@ -21,13 +21,14 @@ So yeah we were on the final call for boarding. A healthy run later and we made 
 
 Why am I even blogging about this? It's pretty boring right? Well its because I just bought an Apple Magic Keyboard and wanted to see if it was any good for blogging on my phone. Surprise, it is!
 
-![Qatar Airlines Entertainment System](IMG_2369.JPG)
+![Qatar Airlines Entertainment System](/images/2015/12/IMG_2369.JPG)
 
 I can't fathom why airline entertainment systems always suck so bad. Extremely laggy and crappy UI.
 
 So anyway Qatar Airlines is pretty shmick. They even give you food! 30kg luggage allowance! Wine, spirits! Man we're so used to budget airlines that its a weird feeling. I get suspicious when I see menus.
 
-![Qatar Airlines Menu](IMG_2368.JPG)
+![Qatar Airlines Menu]((/images/2015/12/IMG_2368.JPG)
+
 Food! Is that "Singaporean" free, or "free" free?
 
 Anyway not much else to say, good night and see you soon my huge audience of 1 reader.

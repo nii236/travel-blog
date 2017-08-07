@@ -1,4 +1,5 @@
 +++
+tags = ["california", "america"]
 date = "2008-12-02T16:00:00+09:00"
 draft = false
 title = "Anaheim, last day"

@@ -1,4 +1,5 @@
 +++
+tags = ["japan", "asia"]
 date = "2008-12-12T11:22:00+09:00"
 draft = false
 title = "Ginza, Aunkai, Ueno park and ueno zoo"
