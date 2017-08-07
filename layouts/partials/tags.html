@@ -1,0 +1,7 @@
+<div>
+	<p>
+		{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+			<a class="black dim" href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a> 
+		{{ end }}
+	</p>
+</div>

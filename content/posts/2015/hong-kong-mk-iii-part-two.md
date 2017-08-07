@@ -3,7 +3,7 @@ date = "2015-10-06T01:27:39+08:00"
 description = "Nom."
 title = "Hong Kong Mk III Part Two - Food"
 slug = "hong-kong-mk-iii-part-two-food"
-tags = ["hong-kong", "china", "asia"]
+tags = ["hongkong", "china", "asia"]
 +++
 
 This won't be a daily blog, mostly because life in Hong Kong tends to blur into a big mush of stuff. So here are some highlights.

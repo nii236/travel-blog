@@ -3,7 +3,7 @@ date = "2015-10-06T19:25:11+08:00"
 description = ""
 title = "Hong Kong Mk III Part Three - Other Stuff"
 slug = "hong-kong-mk-iii-part-three-other-stuff"
-tags = ["hong-kong", "china", "asia"]
+tags = ["hongkong", "china", "asia"]
 +++
 
 # Tech stuff

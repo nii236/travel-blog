@@ -5,15 +5,15 @@ title = "Nii's Travel Blog"
 Paginate = 1000
 
 [params]
-  about = "About"
-  aboutAuthor = "I'm an aspiring software developer."
-  bio = "Engineer - Developer - Traveller"
-  description = "Adventures in Japan and Other Places of Interest"
-  disqusShortname = "nii236"
-  enableRSS = true
-  googleAnalytics = "UA-67751474-1"
-  name = "John Nguyen"
-  newerPosts = "Forward in time..."
-  olderPosts = "Back in time..."
-  subscribe = "RSS"
-  twitter = "nii236"
+	about = "About"
+	aboutAuthor = "I'm an aspiring software developer."
+	bio = "Engineer - Developer - Traveller"
+	description = "Adventures in Japan and Other Places of Interest"
+	disqusShortname = "nii236"
+	enableRSS = false
+	googleAnalytics = "UA-67751474-1"
+	name = "John Nguyen"
+	newerPosts = "Forward in time..."
+	olderPosts = "Back in time..."
+	subscribe = "RSS"
+	twitter = "nii236"
