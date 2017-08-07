@@ -2,6 +2,7 @@ baseurl = "http://travel.niiteki.io/"
 languageCode = "en-us"
 theme = "hugo-cactus-theme"
 title = "Nii's Travel Blog"
+Paginate = 1000
 
 [params]
   about = "About"
