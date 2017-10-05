@@ -1,8 +1,25 @@
-travel.niiteki.io:80/ {
-  log stdout
-  tls off 
-  basicauth /admin/ nii236 correcthorsebatterystaple
+
+http://travel.niiteki.io {
+#  basicauth /admin nii236 correcthorsebatterystaple
   root public
-  hugo
+  hugo {
+  	flag watch
+	database b4b26c1ff5276558316dae63431c70b5.db
+  }
 }
 
+http://bash.niiteki.io {
+	cors
+	tls off
+	proxy / localhost:8081  {
+		transparent
+		websocket
+	}
+}
+
+http://drive.niiteki.io {
+	tls off
+	proxy / localhost:9000 {
+		transparent
+	}
+}
