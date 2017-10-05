@@ -6,7 +6,7 @@ tags = ["Asia", "Singapore"]
 title = "Singapore!"
 +++
 
-I feel guilty.
+I really feel guilty.
 
 Singapore trip finished last week! I've been too lazy to actually document my travels this time around.
 
