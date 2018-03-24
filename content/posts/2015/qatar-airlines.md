@@ -27,7 +27,7 @@ I can't fathom why airline entertainment systems always suck so bad. Extremely l
 
 So anyway Qatar Airlines is pretty shmick. They even give you food! 30kg luggage allowance! Wine, spirits! Man we're so used to budget airlines that its a weird feeling. I get suspicious when I see menus.
 
-![Qatar Airlines Menu]((/images/2015/12/IMG_2368.JPG)
+![Qatar Airlines Menu](/images/2015/12/IMG_2368.JPG)
 
 Food! Is that "Singaporean" free, or "free" free?
 
