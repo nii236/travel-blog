@@ -1,4 +1,4 @@
-baseurl = "http://travel.niiteki.io/"
+baseurl = "https://travel.niiteki.io/"
 languageCode = "en-us"
 theme = "hugo-cactus-theme"
 title = "Nii's Travel Blog"
