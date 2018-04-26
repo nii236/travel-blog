@@ -1,0 +1,12 @@
+{{ $img := $.Page.Resources.GetMatch (.Get 0)}}
+{{ $image := $img.Resize "512x" }} 
+<figure style="margin:auto; width: {{ add $image.Width 3 }}px; padding: 3px; background-color: #cccc">
+	<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+	{{ if ne (.Get 1) "" }}
+	<figcaption style="text-align: center;">
+	<small>
+	{{ (.Get 1) }}
+	</small>
+	</figcaption>
+	{{ end }}
+</figure> 

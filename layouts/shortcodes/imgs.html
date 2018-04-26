@@ -1,0 +1,5 @@
+{{ with $images := $.Page.Resources.ByType "image" }}
+{{ range $key, $value := $images }}
+<p> {{$value.RelPermalink}} </p>
+{{end}}
+{{ end }}
