@@ -1,5 +1,5 @@
 +++
-date = "2017-01-21T00:00:00"
+date = "2017-01-21T00:00:00+08:00"
 description = "Last day"
 slug = "jimbaran2"
 tags = ["Indonesia", "Bali", "Jimbaran"]
@@ -8,7 +8,7 @@ title = "Jimbaran 2"
 
 ![pool](/images/2017/01/jimbaran2/jimbaran2_20.jpg)
 
-Our trusty host, Made, helped us get the scooter back. 
+Our trusty host, Made, helped us get the scooter back.
 
 ![Breakfast](/images/2017/01/jimbaran2/jimbaran2_34.jpg)
 
@@ -32,10 +32,9 @@ We rode the scooter a little more today.
 ![el kabron](/images/2017/01/jimbaran2/jimbaran2_31.jpg)
 ![el kabron](/images/2017/01/jimbaran2/jimbaran2_32.jpg)
 
-El Kabron is a Spanish restaurant. The prices are around Perth level, but for that you get absolutely mindblowing food. 
+El Kabron is a Spanish restaurant. The prices are around Perth level, but for that you get absolutely mindblowing food.
 
-
-The rest of it is a rip though, you end up paying 20 bucks PER HEAD just to be able to go inside the pool. I mean, its a *really* nice infinity pool on the cliff, but so what? You'd pay 40 bucks for both us. Not to mention as soon as we started eating there was a massive storm so we wouldn't have been able to use the pool anyway!
+The rest of it is a rip though, you end up paying 20 bucks PER HEAD just to be able to go inside the pool. I mean, its a _really_ nice infinity pool on the cliff, but so what? You'd pay 40 bucks for both us. Not to mention as soon as we started eating there was a massive storm so we wouldn't have been able to use the pool anyway!
 
 # Riding to La Joya
 
@@ -98,18 +97,17 @@ We ran into the taxi conspiracy again when we left La Joya. There was no interne
 
 Turns out that Tiger Air still is stealing all of the seats on Jetstar! Our flight was overbooked because we checked in too late! Damn Tiger... As Jetstar customers we should be getting priority! Anyway they were pretty apologetic about it and it turned out to be a blessing in disguise...
 
-They put us on the next flight which would be in about 6 hours. Inconvenient! 
+They put us on the next flight which would be in about 6 hours. Inconvenient!
 
 ![hotel](/images/2017/01/jimbaran2/jimbaran2_07.jpg)
 ![hotel](/images/2017/01/jimbaran2/jimbaran2_06.jpg)
 ![hotel](/images/2017/01/jimbaran2/jimbaran2_04.jpg)
 ![hotel](/images/2017/01/jimbaran2/jimbaran2_05.jpg)
 
-But luckily we were placed in the Novotel hotel for free. We also received 60USD room credit to spend on food and goodies. 
+But luckily we were placed in the Novotel hotel for free. We also received 60USD room credit to spend on food and goodies.
 
 ![food](/images/2017/01/jimbaran2/jimbaran2_02.jpg)
 ![food](/images/2017/01/jimbaran2/jimbaran2_03.jpg)
-
 
 Not to mention they also gave us two vouchers totalling 600AUD which lets us use it on our next Jetstar flight! Sweet!
 

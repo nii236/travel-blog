@@ -1,5 +1,5 @@
 +++
-date = "2017-07-22T00:00:00"
+date = "2017-07-22T00:00:00+08:00"
 description = "Way too late"
 slug = "singapore2017"
 tags = ["Asia", "Singapore"]
@@ -10,13 +10,13 @@ I really feel guilty.
 
 Singapore trip finished last week! I've been too lazy to actually document my travels this time around.
 
-I really didn't enjoy my last trip to Singapore.  I couldn't even find a decent blog post on it! Either that it got deleted during my various migrations to different blogging platforms.
+I really didn't enjoy my last trip to Singapore. I couldn't even find a decent blog post on it! Either that it got deleted during my various migrations to different blogging platforms.
 
 Nothing has changed unfortunately, I'll be shoving my blog post into a single one again, mostly for future reference.
 
 Anyway, turns out it was a lot more fun this time around! I think it has something to do with having roaming on my phone, and using Uber for everything instead of walking everywhere for several kilometres every day. We also knew where to go and what to do.
 
-It was  a pretty short trip, 5 days.
+It was a pretty short trip, 5 days.
 
 # Food
 
@@ -28,11 +28,11 @@ Food was great!
 
 We were in the arabic area of Singapore. Pretty interesting, cheap food and stuffs. There was a really touristy strip though, gotta steer clear of that.
 
-There was an Indian murtabak place next to our hotel. Turns out you can get food there for only 5 dollars! And then pretty decent kopi ice for $1.50. 
+There was an Indian murtabak place next to our hotel. Turns out you can get food there for only 5 dollars! And then pretty decent kopi ice for \$1.50.
 
 ![](/images/2017/07/0014.jpg)
 
-This is from the cheapo murtabak place. We got takeaway and brought it up the hotel. I think this cost about $5. We had to eat them super fast because ants would come and attack almost instantly.
+This is from the cheapo murtabak place. We got takeaway and brought it up the hotel. I think this cost about \$5. We had to eat them super fast because ants would come and attack almost instantly.
 
 ## Raffles City
 
@@ -48,21 +48,21 @@ Steph got saba. Pretty good.
 
 ![](/images/2017/07/0003.jpg)
 
-Dessert with the team afterwards at Honeymoon Dessert. They were closed so they just gave us the takeaway containers then turned the lights off on us. It should worth noting that about 3 or 4 times during our trip the lights were turned off on us during dessert! 
+Dessert with the team afterwards at Honeymoon Dessert. They were closed so they just gave us the takeaway containers then turned the lights off on us. It should worth noting that about 3 or 4 times during our trip the lights were turned off on us during dessert!
 
-## Bugis Junction 
+## Bugis Junction
 
 Bugis Junction was fantastic for food.
 
 The same restaurants are there as last time around.
 
-Unfortunately the deep fried chicken tail/butt that I enjoyed so much is no longer there. Weirdly enough the shop that sold it to me last time is still there, but the chicken tail is not on the menu! 
+Unfortunately the deep fried chicken tail/butt that I enjoyed so much is no longer there. Weirdly enough the shop that sold it to me last time is still there, but the chicken tail is not on the menu!
 
 ![](/images/2017/07/0004.jpg)
 
 ![](/images/2017/07/0025.jpg)
 
-Awww yiss look at that beautiful thing. Too bad they were limited time only and we couldn't get any. Luckily though there was a 17th anniversary sale at BreakTalk. Everything $1!
+Awww yiss look at that beautiful thing. Too bad they were limited time only and we couldn't get any. Luckily though there was a 17th anniversary sale at BreakTalk. Everything \$1!
 
 ![](/images/2017/07/0005.jpg)
 
@@ -124,7 +124,7 @@ Dessert at the same place. Icey coconut-ty desserts are my favourite.
 
 ![](/images/2017/07/0012.jpg)
 
-There is a place called the "House of Pancakes" in the City Square mall. They were actually really nice. Not cheap though, around $15 each.
+There is a place called the "House of Pancakes" in the City Square mall. They were actually really nice. Not cheap though, around \$15 each.
 
 ![](/images/2017/07/0013.jpg)
 
@@ -167,7 +167,6 @@ Steph got lots of neat clothes.
 We've never been to touristy areas in Singapore but we finally got around to going to the Marina Bay area. Garden on the Bay I think it was.
 
 There was a cool light show where where the giant tree totem things light up with the music.
-
 
 ![](/images/2017/07/0027.jpg)
 
